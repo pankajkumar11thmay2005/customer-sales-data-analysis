@@ -1,0 +1,977 @@
+Customer_ID,Customer_Name,Age,Gender,City,Product_Category,Product_Name,Quantity,Price,Total_Sales,Payment_Mode,Purchase_Date,Rating
+1001,Bruce Obrien,56.0,Male,Delhi,Home,Bag,1,23738,23738,UPI,2025-01-01,1.0
+1002,Robert Boyd,46.0,Male,Delhi,Beauty,Laptop,1,22389,22389,Cash,2025-01-02,4.0
+1003,Michael Lynch,32.0,Female,Chennai,Beauty,T-Shirt,3,30813,92439,UPI,2025-01-03,2.0
+1004,Marvin Hernandez,25.0,Female,Delhi,Home,Laptop,2,33035,66070,UPI,2025-01-04,4.0
+1005,Antonio Boyd,38.0,Male,Hyderabad,Electronics,Bag,3,49399,148197,UPI,2025-01-05,5.0
+1006,Emily Anderson,56.0,Female,Hyderabad,Home,Bag,2,11270,22540,Credit Card,2025-01-06,3.0
+1007,Manuel Coleman,36.0,Male,Hyderabad,Sports,Headphones,2,39821,79642,Debit Card,2025-01-07,1.0
+1008,Louis Silva,40.0,Male,Chennai,Beauty,Camera,4,20926,83704,UPI,2025-01-08,5.0
+1009,Ryan Hayes,28.0,Male,Chennai,Clothing,Shoes,3,44827,134481,Cash,2025-01-09,5.0
+1010,David Orr,28.0,Male,Delhi,Sports,Watch,4,42277,169108,Credit Card,2025-01-10,2.0
+1011,Mike Fuller,41.0,Female,Mumbai,Beauty,Bag,2,46750,93500,Credit Card,2025-01-11,3.0
+1012,Jane Hensley,53.0,Female,Mumbai,Home,Shoes,1,7998,7998,Cash,2025-01-12,3.0
+1013,Zachary Townsend,57.0,Female,Chennai,Sports,Headphones,2,39904,79808,UPI,2025-01-13,1.0
+1014,Melissa Jones,41.0,Male,Delhi,Beauty,Laptop,4,40630,162520,Debit Card,2025-01-14,3.0
+1015,Anthony Carlson,20.0,Male,Mumbai,Electronics,Headphones,3,16895,50685,UPI,2025-01-15,1.0
+1016,Michael Hernandez,39.0,Male,Delhi,Electronics,Mobile,3,49846,149538,Credit Card,2025-01-16,3.0
+1017,Brittany Fuentes,19.0,Female,Delhi,Clothing,Mobile,4,3037,12148,Credit Card,2025-01-17,5.0
+1018,Maria Lewis,41.0,Male,Delhi,Beauty,Watch,3,19726,59178,Debit Card,2025-01-18,1.0
+1019,Christopher Bruce,47.0,Female,Pune,Electronics,Headphones,5,15716,78580,Credit Card,2025-01-19,5.0
+1020,Madison Newton,55.0,Female,Hyderabad,Home,T-Shirt,1,19113,19113,Cash,2025-01-20,2.0
+1021,Christina Curry,19.0,Female,Delhi,Beauty,Watch,1,3509,3509,UPI,2025-01-21,4.0
+1022,Julia Morris,38.0,Female,Pune,Home,T-Shirt,1,24868,24868,Debit Card,2025-01-22,2.0
+1023,Sean Bradshaw,50.0,Female,Chennai,Home,Watch,3,29827,89481,Credit Card,2025-01-23,4.0
+1024,Christina Powell,29.0,Female,Mumbai,Electronics,Mobile,3,14709,44127,Credit Card,2025-01-24,4.0
+1025,Tiffany Grimes,39.0,Male,Hyderabad,Beauty,Watch,2,48943,97886,Credit Card,2025-01-25,5.0
+1026,Joshua Hansen,42.0,Male,Mumbai,Sports,Mobile,2,15529,31058,UPI,2025-01-26,2.0
+1027,Beth Gilmore,44.0,Female,Hyderabad,Electronics,Bag,1,2577,2577,Debit Card,2025-01-27,2.0
+1028,Alicia Robinson,59.0,Female,Mumbai,Electronics,Laptop,5,14407,72035,UPI,2025-01-28,1.0
+1029,Kelli Alvarado,45.0,Male,Hyderabad,Beauty,T-Shirt,2,37135,74270,UPI,2025-01-29,2.0
+1030,Charles Hernandez,33.0,Female,Mumbai,Beauty,Headphones,2,49420,98840,UPI,2025-01-30,1.0
+1031,Rachael Hernandez,32.0,Female,Mumbai,Home,Bag,3,5373,16119,Cash,2025-01-31,3.0
+1032,Alice Thomas,40.0,Male,Mumbai,Beauty,Bag,5,9135,45675,Cash,2025-02-01,3.0
+1033,Derek Fernandez,54.0,Female,Mumbai,Home,Watch,1,33565,33565,Cash,2025-02-02,3.0
+1034,Samantha Garza,24.0,Female,Chennai,Electronics,Mobile,2,46363,92726,Debit Card,2025-02-03,2.0
+1035,Elizabeth Graham,38.0,Female,Delhi,Clothing,Shoes,5,42304,211520,UPI,2025-02-04,2.0
+1036,John Mayer,26.0,Male,Bangalore,Sports,T-Shirt,5,34283,171415,UPI,2025-02-05,1.0
+1037,James Hopkins,56.0,Male,Pune,Electronics,Bag,1,34652,34652,Cash,2025-02-06,4.0
+1038,Kelly Benjamin,35.0,Male,Bangalore,Beauty,Watch,5,42013,210065,UPI,2025-02-07,1.0
+1039,Jeanne Jones,21.0,Female,Chennai,Sports,Camera,5,29592,147960,UPI,2025-02-08,3.0
+1040,Raymond Costa,42.0,Female,Hyderabad,Clothing,Laptop,5,18153,90765,Credit Card,2025-02-09,1.0
+1041,Michael Howard,31.0,Male,Delhi,Clothing,Laptop,2,32963,65926,UPI,2025-02-10,4.0
+1042,Edward Daniels,26.0,Female,Hyderabad,Home,Shoes,1,34528,34528,Credit Card,2025-02-11,2.0
+1043,Jordan Hancock,43.0,Female,Delhi,Sports,Mobile,5,40969,204845,UPI,2025-02-12,1.0
+1044,Jacob Schwartz,19.0,Female,Delhi,Home,Watch,5,21447,107235,Debit Card,2025-02-13,3.0
+1045,Kristi Richardson,37.0,Female,Mumbai,Electronics,T-Shirt,2,30478,60956,Cash,2025-02-14,3.0
+1046,Linda Clark,45.0,Female,Chennai,Sports,Mobile,1,22556,22556,Credit Card,2025-02-15,2.0
+1047,Jennifer May,24.0,Male,Mumbai,Electronics,Laptop,3,29507,88521,Cash,2025-02-16,1.0
+1048,Sarah Ward,25.0,Female,Chennai,Home,Mobile,2,43669,87338,Credit Card,2025-02-17,4.0
+1049,Nathan Watson,52.0,Male,Hyderabad,Sports,Laptop,1,48787,48787,Credit Card,2025-02-18,2.0
+1050,Wendy Pacheco,31.0,Female,Chennai,Home,Mobile,5,45132,225660,Credit Card,2025-02-19,1.0
+1051,Joshua Sims,34.0,Male,Hyderabad,Sports,Shoes,1,48949,48949,Debit Card,2025-02-20,5.0
+1052,Dr. Madison Suarez,53.0,Female,Bangalore,Home,Headphones,1,6043,6043,UPI,2025-02-21,3.0
+1053,Robin Malone,57.0,Male,Bangalore,Clothing,Shoes,1,21567,21567,Credit Card,2025-02-22,4.0
+1054,Megan Hoover,21.0,Female,Chennai,Home,Shoes,3,45756,137268,Debit Card,2025-02-23,4.0
+1055,Douglas Mendoza,19.0,Male,Chennai,Clothing,Headphones,1,25597,25597,Credit Card,2025-02-24,4.0
+1056,Katrina Moore,23.0,Female,Hyderabad,Home,Headphones,3,43347,130041,UPI,2025-02-25,3.0
+1057,Joseph Anderson,59.0,Male,Mumbai,Sports,Bag,5,44012,220060,Credit Card,2025-02-26,1.0
+1058,Monique Smith,21.0,Female,Hyderabad,Sports,Bag,3,4309,12927,Debit Card,2025-02-27,2.0
+1059,Beth Cherry,46.0,Male,Mumbai,Sports,Watch,5,22691,113455,UPI,2025-02-28,1.0
+1060,James Garza,35.0,Male,Bangalore,Beauty,T-Shirt,5,21767,108835,Debit Card,2025-03-01,2.0
+1061,Carrie Jackson,43.0,Female,Delhi,Electronics,T-Shirt,3,7706,23118,UPI,2025-03-02,4.0
+1062,Brittany Simmons,51.0,Female,Chennai,Sports,Watch,2,21557,43114,UPI,2025-03-03,1.0
+1063,Bonnie Young,27.0,Male,Mumbai,Clothing,Shoes,4,29492,117968,Cash,2025-03-04,4.0
+1064,Tracy Clark,53.0,Female,Hyderabad,Sports,Shoes,1,47014,47014,Cash,2025-03-05,5.0
+1065,Tracy Payne,31.0,Male,Bangalore,Beauty,Laptop,4,16495,65980,Cash,2025-03-06,3.0
+1066,Tyler Lane,48.0,Male,Mumbai,Clothing,Laptop,1,49303,49303,UPI,2025-03-07,4.0
+1067,Jessica Perkins,32.0,Male,Hyderabad,Beauty,T-Shirt,1,44939,44939,Credit Card,2025-03-08,2.0
+1068,Heather Copeland,25.0,Female,Chennai,Clothing,Watch,5,13710,68550,Debit Card,2025-03-09,5.0
+1069,Victor Adams,31.0,Male,Chennai,Home,Camera,1,18293,18293,Debit Card,2025-03-10,4.0
+1070,Jennifer Taylor,40.0,Male,Pune,Electronics,Bag,1,26770,26770,Credit Card,2025-03-11,4.0
+1071,Rose Pierce,57.0,Female,Delhi,Electronics,Camera,3,5697,17091,Cash,2025-03-12,5.0
+1072,James Mays,38.0,Female,Pune,Beauty,Watch,4,48821,195284,UPI,2025-03-13,5.0
+1073,Chris Howell,33.0,Female,Bangalore,Electronics,Laptop,3,7952,23856,Cash,2025-03-14,1.0
+1074,Tamara Ramirez,35.0,Female,Mumbai,Beauty,T-Shirt,1,41986,41986,Credit Card,2025-03-15,2.0
+1075,Ruth Johnson,41.0,Male,Bangalore,Beauty,T-Shirt,5,15359,76795,Credit Card,2025-03-16,5.0
+1076,Debbie Williams,43.0,Male,Hyderabad,Beauty,Laptop,3,27736,83208,Debit Card,2025-03-17,5.0
+1077,Melissa Bryant,42.0,Male,Chennai,Electronics,Camera,3,32399,97197,Cash,2025-03-18,3.0
+1078,Jason Patel,58.0,Male,Pune,Beauty,Mobile,2,32583,65166,Cash,2025-03-19,5.0
+1079,Pamela Stone,46.0,Female,Pune,Electronics,Mobile,1,2672,2672,Credit Card,2025-03-20,2.0
+1081,John Ward,18.0,Male,Bangalore,Sports,Mobile,3,17163,51489,Cash,2025-03-22,4.0
+1082,Angela Gray,42.0,Female,Chennai,Beauty,Headphones,3,28040,84120,Credit Card,2025-03-23,4.0
+1083,Jessica Chaney,24.0,Male,Mumbai,Clothing,Watch,5,19553,97765,Debit Card,2025-03-24,4.0
+1084,Paula Johnson,26.0,Male,Hyderabad,Beauty,Watch,1,11585,11585,Credit Card,2025-03-25,3.0
+1085,Melissa Washington,41.0,Male,Mumbai,Home,Laptop,2,31064,62128,Credit Card,2025-03-26,5.0
+1086,Daniel James,18.0,Male,Bangalore,Beauty,Shoes,3,24709,74127,Cash,2025-03-27,4.0
+1087,Dana Booker,25.0,Male,Hyderabad,Clothing,Bag,2,4481,8962,Cash,2025-03-28,1.0
+1088,Ashley Perez,41.0,Male,Pune,Clothing,Camera,4,21653,86612,UPI,2025-03-29,4.0
+1089,Julie Scott,28.0,Female,Delhi,Electronics,Laptop,1,5747,5747,UPI,2025-03-30,5.0
+1090,Derek Lewis,34.0,Female,Bangalore,Sports,Mobile,4,11053,44212,Cash,2025-03-31,4.0
+1091,Sarah Dominguez,25.0,Male,Bangalore,Beauty,Camera,4,21311,85244,Credit Card,2025-04-01,3.0
+1092,Sherri Watson,52.0,Male,Chennai,Electronics,Shoes,4,30345,121380,Credit Card,2025-04-02,2.0
+1093,Craig Alvarado,52.0,Female,Mumbai,Sports,Mobile,1,6635,6635,UPI,2025-04-03,2.0
+1094,Robert Smith,50.0,Male,Bangalore,Beauty,T-Shirt,1,6073,6073,UPI,2025-04-04,5.0
+1095,Kelli Simmons,22.0,Male,Bangalore,Home,Bag,5,14231,71155,UPI,2025-04-05,2.0
+1096,Melissa Jacobs,59.0,Male,Pune,Beauty,Headphones,2,7689,15378,Debit Card,2025-04-06,2.0
+1097,Joyce Mitchell,56.0,Female,Pune,Clothing,Mobile,2,15041,30082,Debit Card,2025-04-07,1.0
+1098,Sydney Pope,58.0,Male,Chennai,Clothing,Headphones,5,44146,220730,UPI,2025-04-08,5.0
+1099,Sherri Myers,45.0,Female,Delhi,Home,Camera,5,11587,57935,Credit Card,2025-04-09,5.0
+1100,Melissa Calderon,24.0,Male,Chennai,Electronics,Headphones,4,46935,187740,UPI,2025-04-10,2.0
+1101,John Frank,26.0,Female,Delhi,Sports,Camera,5,3276,16380,Debit Card,2025-04-11,2.0
+1102,Jesse Jackson,25.0,Female,Hyderabad,Beauty,Camera,3,42579,127737,Credit Card,2025-04-12,2.0
+1103,Jeffrey Collins,29.0,Male,Pune,Clothing,Camera,2,28064,56128,Credit Card,2025-04-13,3.0
+1104,Michael Stephens,51.0,Female,Mumbai,Electronics,Camera,5,29335,146675,Credit Card,2025-04-14,4.0
+1105,Jennifer Thompson,50.0,Male,Pune,Home,Camera,3,8197,24591,Debit Card,2025-04-15,3.0
+1106,David Morris,40.0,Female,Chennai,Clothing,Mobile,3,15129,45387,Credit Card,2025-04-16,5.0
+1107,Matthew Rivas,41.0,Male,Pune,Home,Camera,3,8886,26658,Credit Card,2025-04-17,1.0
+1108,Mark Michael,54.0,Male,Chennai,Beauty,Mobile,3,17546,52638,Credit Card,2025-04-18,3.0
+1109,Michelle Schneider,52.0,Female,Chennai,Sports,Camera,4,8544,34176,Credit Card,2025-04-19,1.0
+1110,Jesse Lopez,57.0,Male,Chennai,Clothing,Headphones,3,10115,30345,Credit Card,2025-04-20,5.0
+1111,Tanya Reynolds,40.0,Male,Hyderabad,Clothing,T-Shirt,4,48302,193208,Debit Card,2025-04-21,5.0
+1112,Steven Scott,44.0,Female,Chennai,Beauty,Camera,4,5560,22240,Debit Card,2025-04-22,1.0
+1113,Levi Nelson,52.0,Male,Chennai,Electronics,Shoes,3,11400,34200,Cash,2025-04-23,1.0
+1114,Melissa Berger,18.0,Male,Mumbai,Sports,Camera,2,6081,12162,Credit Card,2025-04-24,1.0
+1115,Richard Hood,52.0,Female,Delhi,Clothing,Camera,3,35282,105846,Credit Card,2025-04-25,5.0
+1116,Henry Holt,54.0,Female,Bangalore,Sports,Headphones,3,20673,62019,Debit Card,2025-04-26,2.0
+1117,Carl Gutierrez,31.0,Male,Chennai,Clothing,Bag,3,13497,40491,Credit Card,2025-04-27,1.0
+1118,Kevin Miller,20.0,Male,Chennai,Sports,Watch,2,43903,87806,Credit Card,2025-04-28,4.0
+1119,Misty Jackson,18.0,Female,Mumbai,Home,Headphones,1,46916,46916,Credit Card,2025-04-29,5.0
+1120,Alexander Perry,22.0,Female,Pune,Clothing,Shoes,1,7648,7648,Credit Card,2025-04-30,3.0
+1121,Rhonda Anderson,43.0,Male,Chennai,Sports,Watch,4,19248,76992,UPI,2025-05-01,3.0
+1122,Daniel Gonzalez,31.0,Female,Chennai,Electronics,Laptop,4,14522,58088,Cash,2025-05-02,4.0
+1123,Kevin Moore,56.0,Male,Mumbai,Home,Laptop,2,20513,41026,Credit Card,2025-05-03,2.0
+1124,Christopher Reed,44.0,Male,Mumbai,Home,Bag,5,39187,195935,UPI,2025-05-04,1.0
+1125,Frank Anderson,26.0,Male,Chennai,Electronics,Shoes,1,16386,16386,Cash,2025-05-05,5.0
+1126,Robert Ross,32.0,Male,Hyderabad,Sports,Headphones,4,25756,103024,Credit Card,2025-05-06,1.0
+1127,Tina Bullock,32.0,Male,Mumbai,Beauty,Mobile,1,30505,30505,Debit Card,2025-05-07,5.0
+1128,Alyssa Kent,43.0,Female,Bangalore,Electronics,Shoes,2,7138,14276,UPI,2025-05-08,3.0
+1129,Mikayla Riley,59.0,Female,Bangalore,Sports,T-Shirt,2,37919,75838,UPI,2025-05-09,1.0
+1130,Carrie Miller,30.0,Female,Mumbai,Electronics,Watch,5,33877,169385,Credit Card,2025-05-10,4.0
+1131,Scott Thomas,49.0,Female,Hyderabad,Electronics,Watch,5,41208,206040,Credit Card,2025-05-11,2.0
+1132,Brittany Jones,56.0,Male,Pune,Clothing,Camera,2,43616,87232,UPI,2025-05-12,4.0
+1133,Angela Willis,49.0,Male,Chennai,Sports,Laptop,4,37134,148536,Debit Card,2025-05-13,2.0
+1134,Ariel Gonzalez,21.0,Male,Bangalore,Beauty,Bag,1,17255,17255,Debit Card,2025-05-14,1.0
+1135,Wendy Holmes,47.0,Male,Pune,Clothing,Watch,3,23882,71646,Cash,2025-05-15,1.0
+1136,Carl Simpson,54.0,Female,Mumbai,Electronics,Shoes,5,22894,114470,Credit Card,2025-05-16,2.0
+1137,Jeffrey Evans,40.0,Male,Pune,Electronics,Watch,3,2753,8259,Debit Card,2025-05-17,3.0
+1138,Juan Lee,56.0,Male,Delhi,Electronics,Bag,4,38210,152840,Cash,2025-05-18,5.0
+1140,Tonya Gonzalez,46.0,Female,Mumbai,Sports,Bag,3,1364,4092,Credit Card,2025-05-20,4.0
+1141,Mary Bolton,53.0,Female,Chennai,Clothing,Shoes,4,34536,138144,Cash,2025-05-21,4.0
+1142,Brandon Rogers,30.0,Female,Hyderabad,Beauty,Mobile,1,40722,40722,Cash,2025-05-22,1.0
+1143,Collin Bradford,49.0,Male,Mumbai,Clothing,Camera,4,14166,56664,Cash,2025-05-23,4.0
+1144,David Miller,24.0,Male,Chennai,Home,Laptop,5,21455,107275,Debit Card,2025-05-24,5.0
+1145,Mark Morris,39.0,Female,Hyderabad,Electronics,Watch,2,45638,91276,Credit Card,2025-05-25,5.0
+1146,Eric Ross,45.0,Male,Hyderabad,Electronics,Shoes,1,38497,38497,Cash,2025-05-26,2.0
+1147,Joshua Jennings,19.0,Male,Mumbai,Electronics,Headphones,3,16809,50427,UPI,2025-05-27,1.0
+1148,Jennifer Lewis,59.0,Male,Pune,Clothing,Laptop,5,4554,22770,Credit Card,2025-05-28,5.0
+1149,Derrick Fletcher,23.0,Female,Pune,Clothing,Mobile,2,1435,2870,UPI,2025-05-29,3.0
+1150,Grace Hall,45.0,Male,Hyderabad,Electronics,Shoes,4,45440,181760,UPI,2025-05-30,1.0
+1151,Dana Spencer,45.0,Female,Pune,Clothing,T-Shirt,2,23278,46556,Cash,2025-05-31,1.0
+1152,Rhonda Woods,37.0,Male,Delhi,Sports,T-Shirt,5,43798,218990,Cash,2025-06-01,5.0
+1154,Victoria Stanton,28.0,Male,Hyderabad,Clothing,Camera,2,49424,98848,Debit Card,2025-06-03,2.0
+1155,Jeffrey Parker,45.0,Female,Chennai,Electronics,Mobile,4,17209,68836,Debit Card,2025-06-04,5.0
+1156,Chad Parker,42.0,Male,Pune,Clothing,Mobile,2,10226,20452,Credit Card,2025-06-05,3.0
+1157,Barry Andrade,56.0,Female,Hyderabad,Clothing,Camera,5,41042,205210,Debit Card,2025-06-06,1.0
+1158,Michael Mccoy,50.0,Female,Delhi,Clothing,Watch,5,20745,103725,UPI,2025-06-07,3.0
+1159,Kathryn Sanchez,18.0,Female,Chennai,Home,Watch,3,35253,105759,Debit Card,2025-06-08,1.0
+1160,Kathleen Lee,44.0,Male,Mumbai,Sports,Shoes,3,14752,44256,Cash,2025-06-09,5.0
+1161,Samantha Moon,30.0,Male,Hyderabad,Beauty,Headphones,1,21816,21816,Debit Card,2025-06-10,5.0
+1162,Ronald Ortiz,58.0,Male,Delhi,Beauty,Shoes,5,37871,189355,Credit Card,2025-06-11,4.0
+1163,Jennifer Knight,20.0,Male,Bangalore,Home,Headphones,3,19662,58986,Credit Card,2025-06-12,4.0
+1164,James Duran,56.0,Female,Delhi,Clothing,Mobile,2,16460,32920,UPI,2025-06-13,4.0
+1165,Gregory Simpson,23.0,Female,Delhi,Home,Laptop,4,31291,125164,Credit Card,2025-06-14,5.0
+1166,Christopher Allen,25.0,Female,Chennai,Home,Shoes,2,42730,85460,Debit Card,2025-06-15,2.0
+1167,Jared Smith,44.0,Male,Mumbai,Electronics,Shoes,4,25716,102864,Cash,2025-06-16,5.0
+1168,Kristin Obrien,26.0,Female,Bangalore,Sports,Headphones,3,32967,98901,Credit Card,2025-06-17,3.0
+1169,Andrew Clayton,54.0,Male,Pune,Beauty,Bag,1,47434,47434,Credit Card,2025-06-18,5.0
+1170,Andrew Blake,50.0,Female,Pune,Clothing,Mobile,2,8254,16508,Debit Card,2025-06-19,5.0
+1171,Carly Burton,59.0,Male,Delhi,Beauty,Mobile,2,47514,95028,UPI,2025-06-20,1.0
+1172,Ellen Stephenson,41.0,Male,Chennai,Beauty,T-Shirt,2,4578,9156,Credit Card,2025-06-21,1.0
+1173,Stephanie Garrett,32.0,Female,Chennai,Sports,Bag,4,13353,53412,Credit Card,2025-06-22,1.0
+1174,Elizabeth White,49.0,Female,Pune,Beauty,Headphones,3,4542,13626,UPI,2025-06-23,5.0
+1175,Sheila Cunningham,49.0,Female,Bangalore,Beauty,Mobile,2,49552,99104,Debit Card,2025-06-24,2.0
+1176,Brian Martin,41.0,Female,Mumbai,Home,Bag,2,14889,29778,Credit Card,2025-06-25,3.0
+1177,Miss Carmen Stephenson,58.0,Male,Bangalore,Sports,Camera,1,30925,30925,Cash,2025-06-26,3.0
+1178,Lauren Brown,29.0,Female,Hyderabad,Electronics,Bag,1,3075,3075,Credit Card,2025-06-27,2.0
+1179,Nicole Sandoval,56.0,Female,Hyderabad,Clothing,Watch,3,40022,120066,Debit Card,2025-06-28,2.0
+1180,Timothy Hernandez,19.0,Female,Mumbai,Beauty,T-Shirt,3,28679,86037,Credit Card,2025-06-29,3.0
+1181,Megan Mcdaniel,20.0,Male,Pune,Clothing,Camera,5,35254,176270,UPI,2025-06-30,4.0
+1182,Carolyn Reed,54.0,Male,Mumbai,Electronics,Laptop,1,19124,19124,Credit Card,2025-07-01,1.0
+1183,Kristin Henderson,34.0,Female,Chennai,Clothing,Shoes,5,20850,104250,Credit Card,2025-07-02,1.0
+1184,Joshua Welch,19.0,Male,Hyderabad,Electronics,T-Shirt,4,27181,108724,Debit Card,2025-07-03,3.0
+1185,Jason Elliott,19.0,Female,Delhi,Home,Laptop,5,24488,122440,UPI,2025-07-04,2.0
+1186,John Anderson,45.0,Male,Delhi,Beauty,Shoes,2,15970,31940,Debit Card,2025-07-05,4.0
+1187,Kristina Moran,40.0,Male,Pune,Electronics,Watch,5,25204,126020,Credit Card,2025-07-06,3.0
+1188,Jennifer Holmes,54.0,Male,Chennai,Clothing,Bag,3,39236,117708,Cash,2025-07-07,1.0
+1189,Donna Miller,49.0,Male,Bangalore,Beauty,Mobile,4,29877,119508,Credit Card,2025-07-08,5.0
+1190,Chad Lopez,50.0,Female,Chennai,Home,Camera,2,29072,58144,Debit Card,2025-07-09,2.0
+1191,Mark Reeves,18.0,Female,Delhi,Beauty,Headphones,5,7993,39965,Cash,2025-07-10,5.0
+1192,Ashlee Church,36.0,Female,Delhi,Electronics,Camera,4,4603,18412,Debit Card,2025-07-11,3.0
+1193,Michelle Fields,19.0,Male,Hyderabad,Home,Watch,4,35344,141376,Debit Card,2025-07-12,1.0
+1194,Jeremiah Fernandez,43.0,Female,Chennai,Clothing,Laptop,2,3494,6988,Credit Card,2025-07-13,4.0
+1195,Thomas Jones,49.0,Female,Chennai,Home,Headphones,5,4244,21220,Cash,2025-07-14,5.0
+1196,Zoe Moses,23.0,Female,Delhi,Home,Mobile,4,47734,190936,Credit Card,2025-07-15,4.0
+1197,Shannon Stewart,49.0,Male,Bangalore,Sports,Watch,4,47791,191164,Debit Card,2025-07-16,1.0
+1198,Wayne Perry,21.0,Male,Pune,Home,Headphones,1,27832,27832,Credit Card,2025-07-17,5.0
+1199,Kristen Vasquez,28.0,Male,Pune,Home,Watch,4,6094,24376,UPI,2025-07-18,4.0
+1200,Stephen Sanchez,34.0,Female,Chennai,Beauty,Bag,1,40799,40799,UPI,2025-07-19,4.0
+1201,James Warner,55.0,Female,Pune,Clothing,Watch,5,7871,39355,Cash,2025-07-20,5.0
+1203,Terry Graves,22.0,Male,Delhi,Beauty,T-Shirt,5,18528,92640,UPI,2025-07-22,4.0
+1204,Kevin Solis,51.0,Male,Chennai,Electronics,Shoes,3,36412,109236,Credit Card,2025-07-23,3.0
+1205,Pamela Jackson,23.0,Female,Chennai,Beauty,Headphones,5,14490,72450,UPI,2025-07-24,5.0
+1206,Devon Shepherd,39.0,Male,Hyderabad,Sports,Bag,4,47351,189404,UPI,2025-07-25,2.0
+1207,Kimberly Wright,28.0,Male,Chennai,Sports,Mobile,2,17126,34252,Debit Card,2025-07-26,2.0
+1208,Mark Craig,33.0,Male,Bangalore,Electronics,Watch,1,20969,20969,UPI,2025-07-27,1.0
+1209,Vincent Vazquez,50.0,Male,Pune,Clothing,Bag,3,41222,123666,Debit Card,2025-07-28,3.0
+1210,Andrea Davis,26.0,Female,Chennai,Clothing,Mobile,5,40537,202685,UPI,2025-07-29,4.0
+1211,Jennifer Fischer,23.0,Male,Mumbai,Beauty,T-Shirt,5,7630,38150,UPI,2025-07-30,2.0
+1212,Laura Williams,33.0,Male,Hyderabad,Beauty,Bag,2,7328,14656,Cash,2025-07-31,1.0
+1213,Sophia Vega,46.0,Male,Mumbai,Beauty,Bag,2,42112,84224,Cash,2025-08-01,3.0
+1214,Mary Blevins,20.0,Male,Delhi,Clothing,Shoes,3,47488,142464,Debit Card,2025-08-02,3.0
+1215,Daniel Patton,37.0,Female,Pune,Home,Camera,1,39599,39599,UPI,2025-08-03,1.0
+1217,Jeffrey Lopez,36.0,Male,Mumbai,Home,Shoes,3,18383,55149,Cash,2025-08-05,4.0
+1218,Pamela Payne,43.0,Male,Pune,Home,Laptop,4,43559,174236,Credit Card,2025-08-06,1.0
+1219,Matthew Coleman,20.0,Male,Delhi,Clothing,Headphones,4,19042,76168,Cash,2025-08-07,4.0
+1220,Eric Perez,36.0,Male,Bangalore,Home,Shoes,3,43432,130296,Cash,2025-08-08,4.0
+1221,James White,37.0,Male,Hyderabad,Electronics,Watch,5,10950,54750,UPI,2025-08-09,5.0
+1222,Jesus Melendez,49.0,Male,Pune,Beauty,Headphones,3,20923,62769,Cash,2025-08-10,3.0
+1223,Chad Vasquez,24.0,Female,Pune,Electronics,Headphones,5,2535,12675,Credit Card,2025-08-11,3.0
+1224,Jared Gomez,58.0,Male,Bangalore,Sports,Mobile,2,44731,89462,Cash,2025-08-12,3.0
+1225,Howard Sanchez,50.0,Female,Pune,Beauty,Watch,3,41245,123735,Debit Card,2025-08-13,5.0
+1226,Mark Gutierrez,57.0,Female,Delhi,Home,Laptop,5,17741,88705,UPI,2025-08-14,4.0
+1227,Carolyn Moss,56.0,Male,Delhi,Sports,Camera,3,23654,70962,UPI,2025-08-15,4.0
+1228,Ryan Smith,35.0,Female,Bangalore,Beauty,Bag,3,26125,78375,Debit Card,2025-08-16,1.0
+1229,Jacqueline Stafford,57.0,Female,Hyderabad,Home,T-Shirt,5,45450,227250,Debit Card,2025-08-17,5.0
+1230,Tyler Daniel,18.0,Female,Chennai,Electronics,Shoes,5,33566,167830,Debit Card,2025-08-18,1.0
+1231,Nicholas Murphy,28.0,Female,Mumbai,Beauty,Mobile,1,34191,34191,Cash,2025-08-19,5.0
+1232,Thomas Thompson,45.0,Female,Chennai,Home,Shoes,3,13831,41493,UPI,2025-08-20,1.0
+1233,Jason Fields,42.0,Female,Pune,Electronics,Laptop,4,21190,84760,Debit Card,2025-08-21,2.0
+1234,Maria Dean,40.0,Male,Mumbai,Sports,Bag,3,19683,59049,Cash,2025-08-22,3.0
+1235,Michael Quinn,48.0,Female,Bangalore,Sports,Laptop,3,39846,119538,Debit Card,2025-08-23,3.0
+1236,Tammy Phillips,47.0,Female,Bangalore,Sports,Headphones,5,5375,26875,Credit Card,2025-08-24,4.0
+1237,Dana Moore,59.0,Female,Hyderabad,Sports,T-Shirt,3,12754,38262,Credit Card,2025-08-25,2.0
+1238,Carrie Hayes,52.0,Male,Mumbai,Clothing,Laptop,3,29121,87363,UPI,2025-08-26,3.0
+1239,Deanna Lee,24.0,Female,Delhi,Beauty,Shoes,4,11405,45620,Cash,2025-08-27,3.0
+1241,Oscar Pope,43.0,Female,Pune,Clothing,Watch,3,16382,49146,Credit Card,2025-08-29,3.0
+1242,Amanda Bartlett,19.0,Male,Delhi,Home,Headphones,2,19541,39082,Cash,2025-08-30,1.0
+1243,Nicholas Braun,18.0,Male,Bangalore,Home,Camera,1,29598,29598,Debit Card,2025-08-31,5.0
+1244,Felicia Hicks,29.0,Female,Mumbai,Sports,Shoes,4,42931,171724,Cash,2025-09-01,2.0
+1245,Joel Thomas,22.0,Female,Chennai,Electronics,Shoes,3,34209,102627,Debit Card,2025-09-02,4.0
+1246,Joshua Pearson,54.0,Male,Hyderabad,Home,Laptop,2,35175,70350,Credit Card,2025-09-03,2.0
+1247,Daniel Jennings,49.0,Female,Chennai,Electronics,T-Shirt,3,5337,16011,Credit Card,2025-09-04,4.0
+1248,Mark Soto,26.0,Male,Hyderabad,Beauty,Shoes,3,46948,140844,Credit Card,2025-09-05,2.0
+1249,Sherri Kane,58.0,Male,Pune,Electronics,Mobile,5,24989,124945,UPI,2025-09-06,4.0
+1250,Kevin Hodge,52.0,Male,Chennai,Beauty,Camera,5,18127,90635,UPI,2025-09-07,3.0
+1251,Thomas Black,36.0,Male,Mumbai,Clothing,Laptop,5,6196,30980,UPI,2025-09-08,1.0
+1252,James Lane,33.0,Male,Mumbai,Clothing,Mobile,2,49494,98988,Cash,2025-09-09,3.0
+1253,Tara Miller,20.0,Female,Chennai,Sports,Headphones,3,14043,42129,Credit Card,2025-09-10,1.0
+1254,Jason York,37.0,Male,Mumbai,Home,Watch,1,13115,13115,Credit Card,2025-09-11,3.0
+1255,Maurice Williams,41.0,Male,Pune,Sports,Headphones,4,1966,7864,Cash,2025-09-12,3.0
+1256,Hector Rodriguez,50.0,Female,Delhi,Beauty,Watch,5,31271,156355,UPI,2025-09-13,2.0
+1257,Shelly Walker,41.0,Male,Pune,Sports,Headphones,5,18850,94250,Cash,2025-09-14,5.0
+1258,Jesse Smith,28.0,Female,Hyderabad,Electronics,Shoes,3,875,2625,UPI,2025-09-15,4.0
+1259,Kaitlin Hernandez,25.0,Female,Chennai,Beauty,Mobile,3,33530,100590,Credit Card,2025-09-16,4.0
+1260,Kayla Payne,53.0,Female,Hyderabad,Clothing,Watch,2,21246,42492,Debit Card,2025-09-17,4.0
+1261,Aaron Thomas,55.0,Male,Mumbai,Home,Laptop,2,23386,46772,UPI,2025-09-18,1.0
+1262,Leslie Brown,57.0,Male,Delhi,Beauty,Mobile,5,44848,224240,Credit Card,2025-09-19,4.0
+1263,Johnathan Edwards,37.0,Male,Chennai,Beauty,Laptop,3,43404,130212,Credit Card,2025-09-20,4.0
+1264,Angelica Johnson,52.0,Female,Bangalore,Electronics,Mobile,1,33151,33151,Credit Card,2025-09-21,2.0
+1265,Erica Welch,40.0,Male,Mumbai,Home,Mobile,4,8333,33332,Credit Card,2025-09-22,3.0
+1266,Daniel Robinson,52.0,Female,Hyderabad,Clothing,Headphones,3,2393,7179,Credit Card,2025-09-23,4.0
+1267,Ryan Nguyen,42.0,Male,Mumbai,Beauty,Watch,3,31073,93219,UPI,2025-09-24,5.0
+1268,Shannon Buchanan,46.0,Female,Mumbai,Beauty,Watch,2,31871,63742,UPI,2025-09-25,4.0
+1269,Frank Hudson,35.0,Male,Delhi,Electronics,T-Shirt,4,41374,165496,Credit Card,2025-09-26,1.0
+1270,Teresa Wilcox,35.0,Male,Mumbai,Sports,Mobile,5,12326,61630,Debit Card,2025-09-27,1.0
+1271,Austin Adams,19.0,Male,Delhi,Clothing,Shoes,3,34920,104760,Credit Card,2025-09-28,1.0
+1272,Cindy Hill,52.0,Female,Chennai,Home,Shoes,5,22424,112120,UPI,2025-09-29,4.0
+1273,William Payne,33.0,Female,Bangalore,Beauty,Laptop,3,33867,101601,Debit Card,2025-09-30,2.0
+1274,Mary Gallagher,58.0,Male,Delhi,Beauty,Laptop,5,21699,108495,Debit Card,2025-10-01,5.0
+1275,Tara Watson,53.0,Male,Hyderabad,Clothing,Headphones,4,26368,105472,Cash,2025-10-02,4.0
+1276,Audrey Harvey,50.0,Female,Chennai,Sports,Mobile,2,9292,18584,Debit Card,2025-10-03,2.0
+1277,Francis Holmes,21.0,Female,Delhi,Beauty,Laptop,4,21097,84388,Credit Card,2025-10-04,2.0
+1278,Amy Leon,50.0,Female,Delhi,Clothing,Laptop,1,36905,36905,UPI,2025-10-05,4.0
+1279,George Rivera,31.0,Male,Bangalore,Electronics,Camera,2,33196,66392,Debit Card,2025-10-06,4.0
+1280,Courtney Bennett,38.0,Female,Hyderabad,Sports,Mobile,4,43623,174492,Cash,2025-10-07,2.0
+1281,Mark Williams,37.0,Male,Pune,Home,Bag,1,16489,16489,UPI,2025-10-08,2.0
+1282,Teresa Jones,25.0,Female,Pune,Beauty,Headphones,3,29431,88293,Debit Card,2025-10-09,2.0
+1283,Craig Norton,24.0,Male,Delhi,Clothing,Laptop,3,9790,29370,Cash,2025-10-10,4.0
+1284,Sydney Figueroa,20.0,Female,Mumbai,Electronics,Headphones,5,38867,194335,Debit Card,2025-10-11,2.0
+1285,Gabriel Woods,40.0,Female,Hyderabad,Home,Watch,2,14842,29684,UPI,2025-10-12,1.0
+1286,Melissa Clark,50.0,Female,Chennai,Clothing,Headphones,3,25441,76323,UPI,2025-10-13,4.0
+1287,Joshua Wise,29.0,Female,Mumbai,Clothing,Bag,2,14445,28890,Credit Card,2025-10-14,1.0
+1288,Dr. Michael Kirk,39.0,Female,Mumbai,Home,Shoes,3,11262,33786,Credit Card,2025-10-15,3.0
+1289,Tommy Michael,39.0,Male,Hyderabad,Electronics,Bag,5,30633,153165,Debit Card,2025-10-16,4.0
+1290,Victor Carter,47.0,Female,Delhi,Electronics,Shoes,4,47580,190320,Credit Card,2025-10-17,3.0
+1291,Lori Garcia,55.0,Female,Delhi,Sports,Headphones,5,40650,203250,UPI,2025-10-18,2.0
+1292,Joshua Gibson,55.0,Female,Delhi,Beauty,Shoes,1,27552,27552,Cash,2025-10-19,2.0
+1293,Daniel Bell,25.0,Male,Delhi,Home,Watch,3,42250,126750,Debit Card,2025-10-20,5.0
+1294,Joseph Diaz,44.0,Female,Pune,Home,Mobile,1,20453,20453,Credit Card,2025-10-21,2.0
+1295,Nancy Rivera,44.0,Male,Delhi,Home,Shoes,1,40975,40975,Debit Card,2025-10-22,3.0
+1296,Darrell Carlson DDS,40.0,Female,Pune,Electronics,Shoes,2,17630,35260,Cash,2025-10-23,2.0
+1297,Leah Nguyen,38.0,Female,Pune,Beauty,Headphones,3,31586,94758,Credit Card,2025-10-24,4.0
+1298,Robert Peterson,47.0,Male,Delhi,Sports,Watch,1,5133,5133,UPI,2025-10-25,2.0
+1299,Michelle Avila,50.0,Female,Bangalore,Clothing,T-Shirt,4,17804,71216,Credit Card,2025-10-26,5.0
+1300,Brenda Oconnor,45.0,Male,Chennai,Clothing,T-Shirt,1,42537,42537,Debit Card,2025-10-27,2.0
+1301,Michael Taylor,50.0,Male,Mumbai,Home,T-Shirt,4,32784,131136,Debit Card,2025-10-28,3.0
+1302,Kristen Hall,22.0,Female,Pune,Beauty,T-Shirt,2,47046,94092,Debit Card,2025-10-29,3.0
+1303,Nicholas Hogan,40.0,Male,Hyderabad,Electronics,Mobile,1,7508,7508,Debit Card,2025-10-30,2.0
+1305,Tiffany Vance,52.0,Female,Chennai,Beauty,Headphones,2,27905,55810,Credit Card,2025-11-01,3.0
+1306,Cheryl Larson,34.0,Male,Hyderabad,Electronics,Headphones,4,36886,147544,UPI,2025-11-02,5.0
+1307,Jose Campbell,45.0,Male,Bangalore,Home,Camera,2,25873,51746,UPI,2025-11-03,4.0
+1308,Russell Morris,47.0,Male,Hyderabad,Beauty,Watch,1,21327,21327,UPI,2025-11-04,5.0
+1309,Margaret Beck,46.0,Male,Mumbai,Clothing,T-Shirt,3,33540,100620,Debit Card,2025-11-05,1.0
+1310,Leslie Thomas,23.0,Female,Mumbai,Electronics,Mobile,3,13507,40521,Debit Card,2025-11-06,3.0
+1311,Priscilla Ramirez,52.0,Female,Pune,Sports,Watch,4,18657,74628,Debit Card,2025-11-07,2.0
+1312,Lauren Jones,58.0,Male,Delhi,Home,T-Shirt,4,32657,130628,Credit Card,2025-11-08,4.0
+1313,Holly Davis,54.0,Female,Bangalore,Electronics,Mobile,3,35815,107445,Cash,2025-11-09,2.0
+1314,David Walton,41.0,Female,Pune,Sports,Watch,4,36432,145728,Debit Card,2025-11-10,1.0
+1315,Stephanie Mullen,46.0,Female,Bangalore,Sports,Headphones,2,21664,43328,Credit Card,2025-11-11,4.0
+1316,Tiffany Smith,48.0,Female,Delhi,Beauty,Headphones,5,14914,74570,Debit Card,2025-11-12,3.0
+1317,Andrea Walton,52.0,Male,Hyderabad,Beauty,Bag,5,14827,74135,Debit Card,2025-11-13,5.0
+1318,Anna Parker,50.0,Male,Hyderabad,Beauty,Laptop,2,48844,97688,UPI,2025-11-14,2.0
+1319,Charles Greene,38.0,Female,Delhi,Electronics,Bag,5,1446,7230,UPI,2025-11-15,1.0
+1320,Benjamin Martin,49.0,Male,Pune,Electronics,Shoes,1,15193,15193,UPI,2025-11-16,3.0
+1321,Erica Peterson,40.0,Male,Delhi,Home,Bag,2,27741,55482,Credit Card,2025-11-17,5.0
+1322,Elizabeth Ewing,50.0,Male,Chennai,Beauty,T-Shirt,4,30754,123016,Cash,2025-11-18,3.0
+1323,Sarah Richard,20.0,Female,Mumbai,Sports,Camera,2,16040,32080,Cash,2025-11-19,5.0
+1324,Tonya Gross,35.0,Female,Pune,Clothing,Watch,3,7219,21657,Credit Card,2025-11-20,4.0
+1325,Michelle Tran,42.0,Female,Bangalore,Home,Camera,4,41703,166812,Debit Card,2025-11-21,3.0
+1326,Lisa Hayes,59.0,Male,Chennai,Electronics,Laptop,3,25581,76743,Credit Card,2025-11-22,3.0
+1327,Craig Brown,48.0,Female,Pune,Home,Shoes,4,11850,47400,Debit Card,2025-11-23,3.0
+1328,Albert Santiago,20.0,Female,Delhi,Home,Watch,5,36858,184290,Credit Card,2025-11-24,4.0
+1329,Kelli Wells,57.0,Male,Delhi,Home,Mobile,2,32521,65042,Credit Card,2025-11-25,1.0
+1330,Stanley Long,41.0,Female,Delhi,Home,T-Shirt,1,43332,43332,Credit Card,2025-11-26,5.0
+1331,Jason Frey,49.0,Female,Delhi,Clothing,Shoes,4,28869,115476,Cash,2025-11-27,3.0
+1332,Mary Parsons,39.0,Male,Bangalore,Beauty,Headphones,4,32228,128912,UPI,2025-11-28,4.0
+1333,Mark Alvarez,40.0,Male,Chennai,Sports,Laptop,3,18076,54228,Credit Card,2025-11-29,1.0
+1334,Tabitha Wood DDS,19.0,Male,Hyderabad,Home,Shoes,5,29501,147505,Cash,2025-11-30,5.0
+1335,Timothy Dominguez,44.0,Female,Mumbai,Home,T-Shirt,3,18348,55044,UPI,2025-12-01,4.0
+1336,Christina Lopez,59.0,Female,Bangalore,Home,Bag,3,890,2670,UPI,2025-12-02,5.0
+1337,Donald Nelson,19.0,Female,Bangalore,Beauty,Shoes,5,22499,112495,Credit Card,2025-12-03,3.0
+1338,Rebekah Adams,43.0,Male,Hyderabad,Electronics,Bag,1,45936,45936,Debit Card,2025-12-04,1.0
+1339,Kaitlyn Moore,34.0,Male,Hyderabad,Electronics,T-Shirt,3,12069,36207,Debit Card,2025-12-05,4.0
+1340,Kim Anderson,57.0,Female,Mumbai,Clothing,Headphones,3,13529,40587,Debit Card,2025-12-06,1.0
+1341,Jessica Boone,50.0,Female,Mumbai,Electronics,Watch,4,22990,91960,Credit Card,2025-12-07,3.0
+1343,Christopher Steele,56.0,Male,Delhi,Home,Headphones,2,35828,71656,Cash,2025-12-09,1.0
+1345,Charles Phillips,59.0,Male,Pune,Clothing,Bag,1,15784,15784,Cash,2025-12-11,1.0
+1346,Adam Ochoa,43.0,Female,Mumbai,Home,Mobile,5,34479,172395,Cash,2025-12-12,5.0
+1347,Mary Jackson,52.0,Male,Mumbai,Electronics,Watch,4,9621,38484,UPI,2025-12-13,4.0
+1348,Jason Jones,42.0,Female,Chennai,Beauty,Shoes,4,2039,8156,Cash,2025-12-14,2.0
+1349,Jacob Watson,41.0,Female,Chennai,Beauty,Mobile,5,25988,129940,Debit Card,2025-12-15,4.0
+1350,James Morris,30.0,Female,Pune,Sports,Laptop,4,17527,70108,Credit Card,2025-12-16,4.0
+1351,Stacey Collins,24.0,Male,Pune,Electronics,Laptop,1,9193,9193,Debit Card,2025-12-17,3.0
+1352,Alex Smith,53.0,Male,Mumbai,Home,T-Shirt,1,9421,9421,Cash,2025-12-18,3.0
+1353,Tina Gutierrez,37.0,Male,Delhi,Beauty,Headphones,2,10810,21620,UPI,2025-12-19,2.0
+1355,Bruce Obrien,25.0,Female,Pune,Beauty,Watch,3,31408,94224,Credit Card,2025-12-21,3.0
+1356,Shannon Woods,33.0,Male,Mumbai,Home,T-Shirt,3,4886,14658,Debit Card,2025-12-22,3.0
+1357,Hannah Griffin MD,31.0,Male,Pune,Beauty,Headphones,2,32763,65526,Credit Card,2025-12-23,4.0
+1358,Anthony Jones,29.0,Female,Chennai,Sports,Headphones,2,28912,57824,Credit Card,2025-12-24,2.0
+1359,Robert Soto,40.0,Male,Chennai,Sports,T-Shirt,4,17803,71212,Credit Card,2025-12-25,4.0
+1360,David Rogers,32.0,Female,Bangalore,Beauty,Camera,2,12742,25484,Debit Card,2025-12-26,5.0
+1361,Brandon Gonzales,45.0,Female,Hyderabad,Electronics,Headphones,2,47525,95050,Cash,2025-12-27,4.0
+1362,John Murphy,51.0,Female,Hyderabad,Electronics,Camera,3,9447,28341,Credit Card,2025-12-28,5.0
+1363,Sheila Mcclain,19.0,Female,Mumbai,Electronics,Laptop,4,47214,188856,Debit Card,2025-12-29,1.0
+1364,Brian Summers,49.0,Female,Chennai,Beauty,Laptop,2,6430,12860,UPI,2025-12-30,1.0
+1365,Holly Harris,40.0,Female,Bangalore,Electronics,Headphones,2,38670,77340,Debit Card,2025-12-31,5.0
+1366,Frank Martinez,39.0,Female,Bangalore,Home,Laptop,4,49285,197140,UPI,2026-01-01,5.0
+1367,Jerome Richardson,42.0,Female,Pune,Sports,Watch,5,1007,5035,Debit Card,2026-01-02,4.0
+1368,James Jones,39.0,Male,Pune,Home,Camera,4,1936,7744,Cash,2026-01-03,5.0
+1369,Douglas Moore,39.0,Male,Bangalore,Electronics,Camera,3,27651,82953,Credit Card,2026-01-04,2.0
+1370,Sabrina Benson,59.0,Male,Pune,Home,Headphones,5,12118,60590,Cash,2026-01-05,1.0
+1371,Debra Anderson,23.0,Male,Chennai,Electronics,Laptop,1,9250,9250,Debit Card,2026-01-06,1.0
+1372,James Howe,32.0,Female,Delhi,Beauty,Mobile,4,16622,66488,Credit Card,2026-01-07,5.0
+1373,Lee Lee,54.0,Male,Chennai,Home,Bag,3,7854,23562,UPI,2026-01-08,3.0
+1374,Jessica Rodgers,50.0,Female,Bangalore,Beauty,T-Shirt,5,44562,222810,Debit Card,2026-01-09,3.0
+1375,Ronald Hart,25.0,Male,Bangalore,Beauty,T-Shirt,4,31479,125916,Credit Card,2026-01-10,5.0
+1376,Susan Watts,22.0,Male,Chennai,Clothing,Camera,2,21400,42800,UPI,2026-01-11,2.0
+1377,Cheyenne Guzman,56.0,Male,Pune,Electronics,Headphones,4,14340,57360,UPI,2026-01-12,3.0
+1378,Taylor Jackson,21.0,Female,Pune,Sports,Headphones,1,37667,37667,Cash,2026-01-13,5.0
+1379,Julian Mcmillan,23.0,Male,Hyderabad,Electronics,Watch,4,5537,22148,Debit Card,2026-01-14,2.0
+1380,Alexandra Marks,49.0,Female,Bangalore,Sports,Shoes,5,29133,145665,UPI,2026-01-15,2.0
+1381,Juan Decker,47.0,Female,Mumbai,Electronics,Bag,5,24995,124975,Credit Card,2026-01-16,4.0
+1382,Robert Robinson,52.0,Male,Hyderabad,Beauty,Shoes,4,16348,65392,UPI,2026-01-17,2.0
+1383,Michelle Pierce,57.0,Male,Pune,Home,Camera,5,36983,184915,UPI,2026-01-18,3.0
+1384,Matthew Manning,33.0,Male,Chennai,Home,T-Shirt,2,48145,96290,Cash,2026-01-19,3.0
+1385,Evan Frederick,30.0,Female,Pune,Clothing,Watch,4,8337,33348,Cash,2026-01-20,5.0
+1386,Gregory Mcclure,59.0,Male,Chennai,Sports,Watch,2,34569,69138,Credit Card,2026-01-21,5.0
+1387,Michael Hanson,47.0,Female,Hyderabad,Sports,Watch,2,7870,15740,Cash,2026-01-22,2.0
+1388,William Griffin,36.0,Female,Chennai,Sports,Camera,3,6911,20733,UPI,2026-01-23,1.0
+1389,Tammy Bonilla,34.0,Male,Pune,Beauty,Shoes,4,39633,158532,UPI,2026-01-24,4.0
+1390,Pamela Jackson,36.0,Male,Chennai,Sports,T-Shirt,5,30999,154995,Cash,2026-01-25,1.0
+1391,Joshua Gould,45.0,Female,Bangalore,Home,Watch,2,30725,61450,UPI,2026-01-26,2.0
+1392,David Cruz,43.0,Female,Mumbai,Beauty,T-Shirt,3,48717,146151,UPI,2026-01-27,2.0
+1393,Chelsea Mendoza,54.0,Female,Chennai,Electronics,Laptop,4,1192,4768,Credit Card,2026-01-28,1.0
+1394,Gerald Owen,43.0,Male,Hyderabad,Sports,Headphones,4,29426,117704,Cash,2026-01-29,4.0
+1395,John Arias,40.0,Female,Mumbai,Sports,Headphones,1,34746,34746,UPI,2026-01-30,3.0
+1396,Matthew Thomas,26.0,Male,Mumbai,Electronics,T-Shirt,1,39664,39664,Cash,2026-01-31,5.0
+1397,Miss Gina Ortiz MD,29.0,Female,Delhi,Sports,Mobile,2,8948,17896,Credit Card,2026-02-01,3.0
+1398,Ebony Davis,18.0,Female,Pune,Electronics,Mobile,1,43890,43890,Cash,2026-02-02,5.0
+1399,Angel Sanchez,18.0,Male,Chennai,Beauty,Camera,2,10573,21146,UPI,2026-02-03,3.0
+1400,Kaitlyn Fisher,51.0,Female,Mumbai,Home,Camera,5,35914,179570,Cash,2026-02-04,2.0
+1401,Sierra Fernandez,49.0,Male,Delhi,Electronics,Headphones,2,5709,11418,UPI,2026-02-05,4.0
+1402,Angela Lin,42.0,Male,Hyderabad,Clothing,Laptop,1,7033,7033,UPI,2026-02-06,1.0
+1403,Sean Walker,57.0,Female,Bangalore,Electronics,Bag,5,21561,107805,UPI,2026-02-07,4.0
+1404,Rodney Calderon,18.0,Male,Chennai,Sports,Shoes,1,7711,7711,Credit Card,2026-02-08,1.0
+1405,David Henderson,33.0,Male,Mumbai,Beauty,Shoes,2,10427,20854,Cash,2026-02-09,5.0
+1406,Heather Davis,56.0,Female,Pune,Beauty,Camera,3,12427,37281,Credit Card,2026-02-10,5.0
+1407,Amy Haas,22.0,Male,Delhi,Electronics,Laptop,4,25094,100376,Cash,2026-02-11,1.0
+1408,Stephen Ramirez,39.0,Male,Mumbai,Home,Camera,1,9816,9816,Credit Card,2026-02-12,4.0
+1409,Lisa Zuniga,46.0,Male,Pune,Clothing,Bag,2,12677,25354,Debit Card,2026-02-13,1.0
+1410,Frank Mitchell,20.0,Female,Mumbai,Beauty,Shoes,5,11346,56730,UPI,2026-02-14,2.0
+1411,Timothy Taylor,29.0,Male,Chennai,Sports,T-Shirt,1,8433,8433,UPI,2026-02-15,5.0
+1412,Christopher Gaines,43.0,Female,Chennai,Sports,Camera,1,38744,38744,Credit Card,2026-02-16,2.0
+1413,Justin Fisher,33.0,Female,Chennai,Home,Watch,4,47121,188484,Debit Card,2026-02-17,5.0
+1414,Robert Greer,54.0,Male,Hyderabad,Beauty,T-Shirt,2,41196,82392,UPI,2026-02-18,5.0
+1415,Stephanie Saunders MD,39.0,Male,Hyderabad,Electronics,Bag,3,2580,7740,Cash,2026-02-19,3.0
+1416,Michael Heath,46.0,Male,Delhi,Sports,Bag,5,6589,32945,Credit Card,2026-02-20,2.0
+1417,Cynthia Cole,31.0,Female,Chennai,Home,Camera,2,26623,53246,UPI,2026-02-21,2.0
+1418,Debra Brown,45.0,Male,Pune,Beauty,Headphones,5,8297,41485,UPI,2026-02-22,3.0
+1419,Lisa Arias,22.0,Male,Mumbai,Beauty,Camera,1,8846,8846,Credit Card,2026-02-23,4.0
+1420,Vanessa Goodwin,47.0,Male,Bangalore,Beauty,Headphones,4,20378,81512,Credit Card,2026-02-24,2.0
+1421,Rebecca Bradley,22.0,Male,Pune,Beauty,Bag,4,34172,136688,Cash,2026-02-25,1.0
+1422,Julie Weber,29.0,Male,Hyderabad,Beauty,Laptop,3,18153,54459,Cash,2026-02-26,3.0
+1423,Brian Massey,40.0,Female,Hyderabad,Sports,Bag,4,43242,172968,UPI,2026-02-27,2.0
+1424,Bryce Winters,43.0,Female,Pune,Home,Shoes,1,26640,26640,UPI,2026-02-28,4.0
+1425,Mike Farmer,43.0,Male,Chennai,Beauty,T-Shirt,3,1684,5052,Credit Card,2026-03-01,2.0
+1426,Ashley Mack,38.0,Male,Chennai,Clothing,T-Shirt,2,34993,69986,UPI,2026-03-02,3.0
+1427,Andrew Mays,56.0,Male,Delhi,Clothing,Mobile,4,44648,178592,UPI,2026-03-03,1.0
+1428,Mark Martin,53.0,Male,Mumbai,Home,Mobile,3,25346,76038,Credit Card,2026-03-04,3.0
+1429,Angela Avila,40.0,Female,Delhi,Electronics,Bag,1,46325,46325,UPI,2026-03-05,3.0
+1430,Lisa Simmons,47.0,Male,Mumbai,Electronics,Shoes,5,22695,113475,UPI,2026-03-06,4.0
+1431,Anne Gomez,54.0,Female,Mumbai,Electronics,Mobile,5,6106,30530,Debit Card,2026-03-07,5.0
+1432,Linda Wagner,40.0,Female,Delhi,Clothing,T-Shirt,1,4456,4456,Cash,2026-03-08,5.0
+1433,Alexis Rocha,27.0,Male,Chennai,Electronics,Camera,1,17055,17055,Credit Card,2026-03-09,4.0
+1434,Christine Hall,22.0,Female,Mumbai,Sports,Laptop,5,25349,126745,Debit Card,2026-03-10,5.0
+1435,Juan Lyons,53.0,Female,Delhi,Beauty,Laptop,3,19190,57570,Cash,2026-03-11,3.0
+1437,Cameron Lee,48.0,Female,Bangalore,Home,Bag,1,26847,26847,Cash,2026-03-13,5.0
+1438,Kimberly Strickland,27.0,Male,Pune,Home,Mobile,4,33689,134756,Debit Card,2026-03-14,3.0
+1439,David Sellers,36.0,Male,Chennai,Beauty,Camera,2,38808,77616,Debit Card,2026-03-15,2.0
+1440,Amy Howard,49.0,Female,Mumbai,Clothing,Laptop,4,26285,105140,Cash,2026-03-16,2.0
+1441,Katie Little,18.0,Male,Bangalore,Electronics,Laptop,4,49556,198224,UPI,2026-03-17,5.0
+1442,Jo Webster,22.0,Male,Chennai,Electronics,Watch,1,33198,33198,UPI,2026-03-18,3.0
+1443,Matthew Aguilar,21.0,Male,Chennai,Sports,Bag,5,16466,82330,Debit Card,2026-03-19,5.0
+1444,Laura Bass,33.0,Male,Mumbai,Sports,Watch,3,31597,94791,Debit Card,2026-03-20,4.0
+1445,Kelly Lloyd,41.0,Male,Delhi,Electronics,T-Shirt,4,16382,65528,Debit Card,2026-03-21,2.0
+1446,Anthony Smith,33.0,Female,Mumbai,Home,Laptop,5,5175,25875,Cash,2026-03-22,5.0
+1447,Jessica Benson PhD,19.0,Male,Bangalore,Home,Shoes,3,42350,127050,UPI,2026-03-23,2.0
+1448,Christine Fisher,45.0,Male,Chennai,Sports,Headphones,4,13509,54036,Debit Card,2026-03-24,3.0
+1449,Johnny Arroyo,49.0,Male,Mumbai,Beauty,Headphones,3,28343,85029,Debit Card,2026-03-25,1.0
+1450,Beth Martin,44.0,Male,Delhi,Electronics,Camera,5,30293,151465,Credit Card,2026-03-26,5.0
+1451,Mary Lee,37.0,Female,Mumbai,Sports,Laptop,2,40016,80032,Cash,2026-03-27,5.0
+1452,Amanda Edwards,41.0,Female,Pune,Sports,Laptop,5,39371,196855,Credit Card,2026-03-28,2.0
+1453,William Castillo,29.0,Female,Delhi,Electronics,T-Shirt,1,18357,18357,UPI,2026-03-29,3.0
+1454,Corey King,52.0,Female,Bangalore,Electronics,Laptop,3,20127,60381,Credit Card,2026-03-30,4.0
+1455,Shannon Graham,50.0,Male,Chennai,Home,Shoes,2,19065,38130,Credit Card,2026-03-31,3.0
+1456,Cory Martin,50.0,Female,Mumbai,Beauty,Watch,3,26525,79575,Credit Card,2026-04-01,5.0
+1457,Kevin James,54.0,Male,Delhi,Beauty,Laptop,3,28332,84996,Cash,2026-04-02,4.0
+1458,Debbie Williams,29.0,Male,Pune,Electronics,Laptop,4,44616,178464,UPI,2026-04-03,3.0
+1459,Angela Davis,20.0,Male,Delhi,Clothing,T-Shirt,1,10282,10282,Credit Card,2026-04-04,1.0
+1460,Maria Hill,18.0,Male,Hyderabad,Sports,Bag,3,39150,117450,Cash,2026-04-05,2.0
+1461,Jessica Allen,50.0,Male,Pune,Sports,Mobile,5,22866,114330,UPI,2026-04-06,3.0
+1462,James Murphy,57.0,Female,Bangalore,Electronics,Bag,5,29057,145285,Debit Card,2026-04-07,3.0
+1463,Michelle Powers,27.0,Female,Chennai,Clothing,T-Shirt,4,6298,25192,Credit Card,2026-04-08,1.0
+1464,Anne Edwards,46.0,Female,Bangalore,Home,Bag,1,10127,10127,UPI,2026-04-09,5.0
+1465,Madeline Smith,30.0,Female,Mumbai,Electronics,T-Shirt,1,41683,41683,Credit Card,2026-04-10,2.0
+1466,Joseph Hawkins,29.0,Male,Delhi,Electronics,Shoes,5,12966,64830,Debit Card,2026-04-11,3.0
+1467,Katherine Hernandez,48.0,Female,Hyderabad,Sports,Camera,2,43114,86228,UPI,2026-04-12,4.0
+1468,Michael Fox,19.0,Male,Pune,Electronics,Laptop,4,13220,52880,Cash,2026-04-13,3.0
+1469,John Scott,52.0,Female,Pune,Electronics,T-Shirt,4,42413,169652,UPI,2026-04-14,2.0
+1470,Christine Nguyen,40.0,Male,Delhi,Electronics,T-Shirt,5,37792,188960,Cash,2026-04-15,3.0
+1471,Matthew Smith,34.0,Male,Hyderabad,Sports,Mobile,5,7059,35295,Credit Card,2026-04-16,1.0
+1472,Bethany Cole,43.0,Female,Delhi,Home,T-Shirt,2,40888,81776,Cash,2026-04-17,3.0
+1473,Gregory Gray,25.0,Male,Mumbai,Home,Headphones,2,19658,39316,Debit Card,2026-04-18,3.0
+1474,Joseph Graham,46.0,Male,Bangalore,Electronics,Camera,1,31416,31416,Debit Card,2026-04-19,4.0
+1475,Heather Crawford,43.0,Female,Chennai,Sports,Laptop,4,22557,90228,Debit Card,2026-04-20,1.0
+1476,Mr. David Rich,27.0,Male,Mumbai,Home,Laptop,4,36392,145568,UPI,2026-04-21,1.0
+1477,Morgan Curry,43.0,Female,Bangalore,Home,Mobile,5,41939,209695,Debit Card,2026-04-22,3.0
+1478,Lisa Collins,51.0,Female,Mumbai,Home,Shoes,1,12206,12206,Credit Card,2026-04-23,4.0
+1480,Brittany Livingston,24.0,Male,Pune,Sports,Headphones,1,41402,41402,Cash,2026-04-25,3.0
+1481,Kevin Stone,21.0,Male,Delhi,Electronics,Laptop,1,1424,1424,Cash,2026-04-26,2.0
+1482,Maureen Lopez,28.0,Male,Delhi,Beauty,Headphones,5,26978,134890,Cash,2026-04-27,2.0
+1483,Alexandra Mccarthy,46.0,Female,Bangalore,Home,Camera,1,6006,6006,UPI,2026-04-28,4.0
+1484,Matthew Vang,53.0,Male,Chennai,Beauty,Camera,2,46918,93836,Credit Card,2026-04-29,5.0
+1485,Stephen Allison,42.0,Female,Hyderabad,Sports,Watch,2,35663,71326,Debit Card,2026-04-30,2.0
+1486,Richard Reyes,38.0,Female,Bangalore,Sports,Watch,3,25104,75312,Credit Card,2026-05-01,5.0
+1487,Eric Orr,53.0,Male,Chennai,Sports,Headphones,5,15810,79050,Credit Card,2026-05-02,1.0
+1488,Deborah King,27.0,Female,Mumbai,Beauty,Shoes,3,8726,26178,Cash,2026-05-03,2.0
+1489,Jill Day,54.0,Male,Hyderabad,Sports,Laptop,2,12281,24562,Cash,2026-05-04,2.0
+1490,Carrie Austin,26.0,Male,Mumbai,Electronics,T-Shirt,3,6015,18045,Cash,2026-05-05,4.0
+1491,Mary Allen,41.0,Male,Chennai,Sports,Laptop,5,36633,183165,UPI,2026-05-06,5.0
+1492,Juan Hall,52.0,Male,Hyderabad,Clothing,Watch,5,17472,87360,Credit Card,2026-05-07,2.0
+1493,Samantha Bright,52.0,Male,Chennai,Beauty,Bag,1,32592,32592,Credit Card,2026-05-08,2.0
+1494,Jessica Young,53.0,Female,Pune,Clothing,T-Shirt,4,11910,47640,UPI,2026-05-09,4.0
+1495,Russell Koch,35.0,Female,Delhi,Sports,Headphones,1,20022,20022,UPI,2026-05-10,4.0
+1496,Michael White,56.0,Female,Chennai,Electronics,T-Shirt,5,9595,47975,Credit Card,2026-05-11,5.0
+1497,Julie Cobb,49.0,Male,Bangalore,Home,Bag,2,23547,47094,Credit Card,2026-05-12,1.0
+1498,Donna Smith,41.0,Male,Delhi,Sports,Laptop,2,20970,41940,Credit Card,2026-05-13,1.0
+1499,Nathan Mathis,40.0,Male,Delhi,Electronics,Laptop,1,43629,43629,Cash,2026-05-14,3.0
+1500,Kimberly Lowe,49.0,Female,Bangalore,Beauty,Shoes,5,9031,45155,Cash,2026-05-15,2.0
+1501,Adrian Hernandez,54.0,Male,Hyderabad,Clothing,Mobile,2,37538,75076,Credit Card,2026-05-16,5.0
+1502,Steven Charles,29.0,Female,Delhi,Clothing,T-Shirt,5,22903,114515,Cash,2026-05-17,2.0
+1503,Brandon Lane,30.0,Female,Chennai,Clothing,Watch,2,43174,86348,UPI,2026-05-18,5.0
+1504,Deborah Spence,40.0,Male,Pune,Beauty,Bag,5,29622,148110,Debit Card,2026-05-19,5.0
+1505,Ralph Bishop,42.0,Male,Delhi,Electronics,Bag,3,17440,52320,Cash,2026-05-20,5.0
+1506,Rachel Blackwell,52.0,Female,Chennai,Beauty,Bag,5,30331,151655,Credit Card,2026-05-21,2.0
+1507,Melissa Gilbert,58.0,Male,Mumbai,Clothing,Watch,5,11779,58895,Cash,2026-05-22,4.0
+1508,Benjamin Hernandez,47.0,Female,Chennai,Sports,Mobile,1,38720,38720,Cash,2026-05-23,2.0
+1509,Jennifer Johnson,34.0,Male,Pune,Home,Laptop,3,6977,20931,Cash,2026-05-24,5.0
+1510,Diane Gonzalez,37.0,Male,Chennai,Beauty,Shoes,4,17900,71600,Debit Card,2026-05-25,3.0
+1511,Alexis Cooper,42.0,Female,Bangalore,Beauty,Shoes,1,6970,6970,UPI,2026-05-26,1.0
+1512,Ms. Brandi Pittman,39.0,Male,Pune,Electronics,Watch,4,2562,10248,Credit Card,2026-05-27,5.0
+1513,Robert Garcia,30.0,Female,Hyderabad,Electronics,Shoes,2,42298,84596,Debit Card,2026-05-28,3.0
+1514,Jacob Marquez,36.0,Male,Mumbai,Beauty,Bag,4,20380,81520,Credit Card,2026-05-29,4.0
+1515,Nichole Scott,53.0,Female,Chennai,Clothing,Camera,5,35081,175405,Credit Card,2026-05-30,5.0
+1516,David Wells,29.0,Female,Hyderabad,Home,Mobile,4,44939,179756,Credit Card,2026-05-31,3.0
+1517,William Moon,58.0,Male,Chennai,Electronics,Laptop,1,14808,14808,Debit Card,2026-06-01,5.0
+1518,Melissa Garcia,36.0,Female,Pune,Clothing,Camera,1,26527,26527,UPI,2026-06-02,2.0
+1519,Melissa Davis,29.0,Male,Mumbai,Sports,Mobile,4,31220,124880,Credit Card,2026-06-03,3.0
+1520,Brian Ritter,26.0,Male,Bangalore,Electronics,Headphones,1,35581,35581,UPI,2026-06-04,2.0
+1521,James Contreras,24.0,Male,Hyderabad,Clothing,T-Shirt,1,10206,10206,UPI,2026-06-05,2.0
+1522,Michael West,45.0,Female,Hyderabad,Clothing,Watch,4,10337,41348,Cash,2026-06-06,3.0
+1523,Eric Willis,31.0,Female,Mumbai,Home,Bag,3,39099,117297,Debit Card,2026-06-07,1.0
+1524,Tina Mcgee,48.0,Male,Chennai,Home,Shoes,3,37324,111972,Debit Card,2026-06-08,3.0
+1525,Kevin Cruz,36.0,Male,Mumbai,Sports,Headphones,2,33573,67146,Cash,2026-06-09,1.0
+1526,Emily Friedman,33.0,Female,Hyderabad,Clothing,Shoes,1,47615,47615,Cash,2026-06-10,5.0
+1527,Kimberly Saunders,22.0,Male,Delhi,Clothing,Camera,4,32588,130352,UPI,2026-06-11,5.0
+1528,Dawn Medina,52.0,Male,Bangalore,Home,Laptop,1,28612,28612,Credit Card,2026-06-12,3.0
+1529,Jennifer Nelson,29.0,Female,Mumbai,Electronics,Laptop,5,26799,133995,Debit Card,2026-06-13,5.0
+1530,Douglas Snyder,42.0,Male,Hyderabad,Electronics,Laptop,1,34957,34957,Credit Card,2026-06-14,4.0
+1531,Kelly George,38.0,Female,Chennai,Beauty,Bag,1,30563,30563,Credit Card,2026-06-15,2.0
+1532,Daniel Morgan,53.0,Male,Hyderabad,Home,Shoes,3,4417,13251,Cash,2026-06-16,2.0
+1533,Eric Johnson,40.0,Female,Chennai,Beauty,Headphones,4,3436,13744,Credit Card,2026-06-17,1.0
+1534,Lisa Hall,33.0,Male,Mumbai,Home,Laptop,1,37130,37130,UPI,2026-06-18,5.0
+1535,Eric Jenkins,40.0,Male,Chennai,Sports,Headphones,3,15006,45018,Cash,2026-06-19,1.0
+1536,Robert Moore,59.0,Female,Pune,Clothing,Shoes,2,29305,58610,Credit Card,2026-06-20,2.0
+1537,Stephanie Smith,56.0,Male,Pune,Sports,Bag,3,14818,44454,Cash,2026-06-21,2.0
+1538,Rebecca Lawrence,40.0,Female,Pune,Home,Camera,3,48568,145704,UPI,2026-06-22,5.0
+1539,Christopher Martinez,48.0,Male,Delhi,Clothing,Bag,3,26526,79578,UPI,2026-06-23,4.0
+1540,Deborah Garcia,22.0,Female,Mumbai,Electronics,Headphones,1,28172,28172,Credit Card,2026-06-24,3.0
+1541,Brian Sanchez,52.0,Female,Hyderabad,Electronics,Bag,1,38917,38917,Cash,2026-06-25,5.0
+1542,Jessica Ray,40.0,Female,Hyderabad,Beauty,Bag,2,27781,55562,Credit Card,2026-06-26,5.0
+1544,Caroline Richardson,28.0,Male,Chennai,Home,Shoes,5,28591,142955,Cash,2026-06-28,5.0
+1545,Lisa Chung,35.0,Male,Delhi,Electronics,Shoes,5,38828,194140,Credit Card,2026-06-29,4.0
+1546,Daniel Church,29.0,Female,Chennai,Sports,Watch,2,48719,97438,UPI,2026-06-30,5.0
+1547,Jasmine Hall,26.0,Female,Chennai,Clothing,Bag,5,19110,95550,Cash,2026-07-01,1.0
+1548,Anthony Gould,27.0,Female,Bangalore,Sports,Shoes,5,1579,7895,Cash,2026-07-02,1.0
+1549,Emily Walker,34.0,Male,Hyderabad,Sports,Shoes,3,30350,91050,Cash,2026-07-03,1.0
+1550,Amanda Lamb DDS,55.0,Male,Pune,Electronics,Mobile,1,47251,47251,Cash,2026-07-04,1.0
+1551,Samuel Williams,24.0,Male,Chennai,Electronics,Laptop,1,21090,21090,Credit Card,2026-07-05,3.0
+1552,Mark Mason,30.0,Male,Bangalore,Electronics,Watch,3,31451,94353,Credit Card,2026-07-06,5.0
+1553,Jason Jackson,57.0,Female,Hyderabad,Beauty,T-Shirt,3,15827,47481,UPI,2026-07-07,2.0
+1554,Glenda Lawrence,59.0,Female,Pune,Sports,Watch,3,13255,39765,Debit Card,2026-07-08,5.0
+1555,Jessica Sims,26.0,Female,Chennai,Home,Watch,1,7735,7735,Debit Card,2026-07-09,3.0
+1556,Kevin Johnson,44.0,Male,Chennai,Clothing,T-Shirt,5,17697,88485,UPI,2026-07-10,1.0
+1557,Daniel Myers,19.0,Male,Delhi,Beauty,Mobile,3,21973,65919,Debit Card,2026-07-11,3.0
+1558,Richard Hudson,22.0,Male,Delhi,Home,Bag,2,2531,5062,UPI,2026-07-12,4.0
+1559,Sean Mitchell,46.0,Female,Hyderabad,Sports,Camera,3,41782,125346,Credit Card,2026-07-13,4.0
+1560,Andrew Finley,54.0,Female,Pune,Electronics,Shoes,4,42363,169452,Cash,2026-07-14,5.0
+1561,Michelle Thomas,55.0,Male,Chennai,Sports,Laptop,3,14787,44361,Cash,2026-07-15,5.0
+1562,Joe Nelson MD,36.0,Female,Hyderabad,Clothing,Headphones,1,39179,39179,Credit Card,2026-07-16,2.0
+1563,Tara Lee,25.0,Male,Hyderabad,Beauty,Bag,3,44963,134889,Cash,2026-07-17,3.0
+1564,Jeanne Stephens,18.0,Male,Mumbai,Beauty,T-Shirt,4,32730,130920,Cash,2026-07-18,4.0
+1565,Christine Thompson,39.0,Female,Delhi,Clothing,Camera,2,19537,39074,Debit Card,2026-07-19,1.0
+1566,Steven Gaines,34.0,Male,Pune,Home,Bag,5,27552,137760,Credit Card,2026-07-20,3.0
+1567,Amber Day,24.0,Female,Chennai,Home,T-Shirt,3,3840,11520,Debit Card,2026-07-21,2.0
+1568,Kimberly Jenkins,42.0,Male,Hyderabad,Beauty,Shoes,4,41144,164576,Debit Card,2026-07-22,2.0
+1569,Anthony Martin,40.0,Female,Chennai,Beauty,Mobile,4,49164,196656,Cash,2026-07-23,1.0
+1570,William Potts,53.0,Female,Mumbai,Electronics,Bag,2,45703,91406,Cash,2026-07-24,1.0
+1571,Andrew Johnson,40.0,Female,Pune,Home,T-Shirt,1,1641,1641,Credit Card,2026-07-25,5.0
+1572,Cindy Tucker,48.0,Male,Hyderabad,Clothing,Shoes,3,25925,77775,Cash,2026-07-26,3.0
+1573,Steven Barrett,36.0,Male,Chennai,Home,Shoes,4,19781,79124,Cash,2026-07-27,1.0
+1574,Joann Young,56.0,Female,Delhi,Electronics,Mobile,2,42549,85098,Credit Card,2026-07-28,2.0
+1575,Shannon Davenport,44.0,Female,Chennai,Beauty,Watch,5,20925,104625,Cash,2026-07-29,2.0
+1576,Alexis Nelson,27.0,Male,Pune,Beauty,Bag,4,35306,141224,Debit Card,2026-07-30,4.0
+1577,Robert Strickland,43.0,Male,Mumbai,Electronics,Bag,2,32613,65226,Credit Card,2026-07-31,1.0
+1578,Ashley Rojas,36.0,Male,Delhi,Clothing,Watch,1,4770,4770,Cash,2026-08-01,3.0
+1579,Mitchell Brown,56.0,Female,Pune,Beauty,Laptop,1,43314,43314,UPI,2026-08-02,3.0
+1580,Victor Cruz,20.0,Male,Mumbai,Sports,Laptop,4,5183,20732,Credit Card,2026-08-03,5.0
+1581,Adam Jones,30.0,Male,Bangalore,Beauty,Watch,4,40384,161536,Credit Card,2026-08-04,2.0
+1582,Corey Richardson Jr.,45.0,Female,Delhi,Sports,Camera,3,30309,90927,UPI,2026-08-05,3.0
+1583,Megan Hogan,37.0,Male,Delhi,Electronics,Headphones,2,35052,70104,Cash,2026-08-06,2.0
+1584,Cathy Nunez,40.0,Male,Delhi,Electronics,Shoes,4,4286,17144,Cash,2026-08-07,2.0
+1585,Adrian Parker,25.0,Male,Bangalore,Beauty,Headphones,3,22150,66450,Credit Card,2026-08-08,2.0
+1586,Donna Lee,58.0,Female,Bangalore,Home,Shoes,3,29206,87618,Credit Card,2026-08-09,2.0
+1587,Lauren Hughes,56.0,Female,Chennai,Sports,Watch,4,9690,38760,Cash,2026-08-10,2.0
+1588,Kaitlin Hawkins,18.0,Female,Hyderabad,Clothing,Laptop,1,38696,38696,Cash,2026-08-11,4.0
+1589,Cheryl Cobb,20.0,Female,Mumbai,Beauty,Camera,2,39949,79898,Debit Card,2026-08-12,5.0
+1590,Rachel Stark,30.0,Female,Chennai,Clothing,Laptop,2,40161,80322,Credit Card,2026-08-13,4.0
+1591,Maria Bell,45.0,Female,Mumbai,Beauty,Headphones,1,30209,30209,Credit Card,2026-08-14,4.0
+1592,Natalie Skinner,42.0,Female,Hyderabad,Home,Laptop,4,45929,183716,UPI,2026-08-15,1.0
+1593,Bailey Scott,50.0,Male,Bangalore,Home,Watch,2,15392,30784,Debit Card,2026-08-16,1.0
+1594,Johnny Weeks,55.0,Male,Hyderabad,Home,Camera,4,10143,40572,Cash,2026-08-17,1.0
+1595,Regina Reynolds,23.0,Female,Bangalore,Home,Headphones,4,10443,41772,Debit Card,2026-08-18,3.0
+1596,Trevor Ellis,49.0,Male,Hyderabad,Electronics,Camera,3,43740,131220,Cash,2026-08-19,1.0
+1597,Martha Hill,38.0,Male,Chennai,Electronics,Bag,1,46260,46260,Cash,2026-08-20,3.0
+1598,Dawn Sanchez,33.0,Female,Pune,Sports,Shoes,4,21542,86168,Debit Card,2026-08-21,4.0
+1599,Douglas Johnson,38.0,Male,Chennai,Clothing,Laptop,5,44394,221970,Credit Card,2026-08-22,5.0
+1600,Kyle Mosley,28.0,Male,Mumbai,Beauty,Camera,1,7369,7369,Cash,2026-08-23,1.0
+1601,John Moore,54.0,Male,Chennai,Beauty,Mobile,2,40937,81874,Debit Card,2026-08-24,3.0
+1602,Bradley Williams,53.0,Male,Delhi,Electronics,Bag,3,44806,134418,UPI,2026-08-25,3.0
+1603,Jacqueline Barnes,52.0,Male,Mumbai,Beauty,Laptop,2,43333,86666,Debit Card,2026-08-26,4.0
+1604,Joseph Martinez,36.0,Female,Hyderabad,Electronics,Shoes,2,21418,42836,UPI,2026-08-27,5.0
+1605,Tracey Huff,37.0,Female,Mumbai,Sports,Camera,1,28879,28879,Cash,2026-08-28,2.0
+1606,Kevin Harris,35.0,Female,Pune,Clothing,Headphones,2,43439,86878,Debit Card,2026-08-29,5.0
+1607,Nicole Bell,58.0,Male,Bangalore,Sports,Shoes,4,25774,103096,Debit Card,2026-08-30,1.0
+1608,Austin Garcia,31.0,Female,Hyderabad,Home,Mobile,2,18196,36392,UPI,2026-08-31,2.0
+1609,Levi Johnson,40.0,Male,Chennai,Home,Camera,3,3462,10386,Debit Card,2026-09-01,3.0
+1610,Barry Gonzalez,48.0,Male,Hyderabad,Home,T-Shirt,3,14351,43053,Debit Card,2026-09-02,4.0
+1612,Lisa Moon,20.0,Male,Hyderabad,Beauty,Watch,3,5796,17388,Debit Card,2026-09-04,3.0
+1613,Dr. Larry Dunn,33.0,Female,Bangalore,Clothing,Laptop,2,15245,30490,Credit Card,2026-09-05,3.0
+1614,Heather Townsend,40.0,Female,Chennai,Home,Headphones,3,6230,18690,UPI,2026-09-06,3.0
+1615,Lance Anthony,28.0,Male,Hyderabad,Home,Watch,1,14421,14421,Debit Card,2026-09-07,1.0
+1616,Beth Meyer,29.0,Female,Delhi,Home,Camera,3,33394,100182,UPI,2026-09-08,2.0
+1617,Lisa Alvarez,27.0,Male,Pune,Clothing,T-Shirt,4,6102,24408,UPI,2026-09-09,3.0
+1618,Tiffany Moore,49.0,Female,Bangalore,Home,T-Shirt,1,18075,18075,UPI,2026-09-10,1.0
+1619,Michelle Wilson,33.0,Female,Mumbai,Clothing,T-Shirt,5,19523,97615,Debit Card,2026-09-11,2.0
+1620,Rebecca Marshall,25.0,Male,Bangalore,Home,Camera,4,45849,183396,Debit Card,2026-09-12,3.0
+1621,Tracy Andrews,55.0,Female,Mumbai,Sports,T-Shirt,2,16497,32994,UPI,2026-09-13,4.0
+1622,Erin Walsh,29.0,Male,Bangalore,Sports,Shoes,2,18250,36500,Credit Card,2026-09-14,3.0
+1623,Autumn Nguyen,41.0,Female,Mumbai,Clothing,Bag,2,42479,84958,UPI,2026-09-15,5.0
+1624,Paul Bailey,45.0,Male,Hyderabad,Sports,Camera,4,23337,93348,Credit Card,2026-09-16,3.0
+1625,David Gamble,25.0,Male,Chennai,Clothing,Headphones,4,15497,61988,UPI,2026-09-17,5.0
+1626,Jacob Gilbert,45.0,Female,Mumbai,Sports,Bag,4,39939,159756,Cash,2026-09-18,2.0
+1627,Kenneth Walker,53.0,Female,Mumbai,Sports,Watch,1,23567,23567,UPI,2026-09-19,3.0
+1628,Evan Barton,43.0,Male,Delhi,Clothing,Headphones,1,45539,45539,UPI,2026-09-20,2.0
+1629,Andres Daniels,40.0,Female,Mumbai,Beauty,Bag,2,21423,42846,Debit Card,2026-09-21,3.0
+1630,Christian Bauer,45.0,Female,Delhi,Sports,Mobile,3,9376,28128,Credit Card,2026-09-22,1.0
+1631,Sandra Brock,45.0,Male,Pune,Home,T-Shirt,2,3387,6774,Cash,2026-09-23,2.0
+1632,Gregory Shea,54.0,Male,Hyderabad,Beauty,Mobile,5,42922,214610,Credit Card,2026-09-24,2.0
+1633,Bryan Ward,58.0,Female,Delhi,Clothing,Laptop,1,37354,37354,Cash,2026-09-25,3.0
+1634,John Scott,53.0,Male,Chennai,Beauty,Laptop,4,37448,149792,UPI,2026-09-26,3.0
+1635,Victoria Norton,44.0,Male,Hyderabad,Electronics,Bag,1,3341,3341,Debit Card,2026-09-27,4.0
+1636,Ronald Osborn,34.0,Male,Delhi,Electronics,Mobile,4,29256,117024,Debit Card,2026-09-28,1.0
+1637,Sarah Moody,26.0,Female,Hyderabad,Sports,Camera,5,6540,32700,Credit Card,2026-09-29,2.0
+1638,Natasha Hart,50.0,Female,Hyderabad,Sports,Headphones,5,10804,54020,Debit Card,2026-09-30,1.0
+1639,Sheila Carter,37.0,Male,Hyderabad,Home,Mobile,1,30841,30841,Credit Card,2026-10-01,5.0
+1640,Steven Holmes,30.0,Female,Pune,Beauty,Laptop,4,5258,21032,Credit Card,2026-10-02,2.0
+1641,Alexis Diaz,45.0,Male,Chennai,Electronics,Mobile,5,17510,87550,Cash,2026-10-03,1.0
+1642,Lisa Alvarez,46.0,Female,Bangalore,Sports,Camera,2,32158,64316,Credit Card,2026-10-04,4.0
+1643,Nathan Warner,30.0,Male,Bangalore,Beauty,Mobile,2,49502,99004,Cash,2026-10-05,4.0
+1644,Nicole Orozco,52.0,Male,Delhi,Sports,Headphones,4,38282,153128,Debit Card,2026-10-06,2.0
+1645,Gary Hart,23.0,Female,Hyderabad,Sports,Watch,1,1875,1875,Credit Card,2026-10-07,5.0
+1646,Christopher Petty,35.0,Male,Delhi,Electronics,Camera,5,34449,172245,Credit Card,2026-10-08,4.0
+1647,Daniel Watkins,22.0,Female,Pune,Electronics,Laptop,1,22592,22592,UPI,2026-10-09,4.0
+1648,Jeffrey Morris,42.0,Female,Pune,Sports,Headphones,2,990,1980,Credit Card,2026-10-10,5.0
+1649,James Shelton,19.0,Male,Chennai,Clothing,Mobile,5,4229,21145,Credit Card,2026-10-11,1.0
+1650,Michael Clark,27.0,Male,Pune,Sports,Mobile,1,6474,6474,UPI,2026-10-12,4.0
+1651,Rebecca Gonzalez,47.0,Female,Mumbai,Sports,Watch,3,20180,60540,UPI,2026-10-13,3.0
+1652,Tina Lucas,22.0,Male,Chennai,Home,Laptop,4,18824,75296,Debit Card,2026-10-14,4.0
+1653,Nicole Lindsey,50.0,Male,Delhi,Home,Laptop,4,31834,127336,Credit Card,2026-10-15,1.0
+1654,Carmen Ali,18.0,Male,Chennai,Home,Shoes,3,21898,65694,Debit Card,2026-10-16,1.0
+1655,Erin Davis,35.0,Male,Pune,Clothing,Laptop,2,35150,70300,Debit Card,2026-10-17,2.0
+1656,Marisa Wallace,49.0,Male,Chennai,Clothing,Watch,5,21792,108960,UPI,2026-10-18,3.0
+1657,Julie Campbell,28.0,Female,Chennai,Sports,T-Shirt,4,36255,145020,Cash,2026-10-19,1.0
+1658,Troy Mcdaniel,38.0,Female,Chennai,Home,Shoes,3,38853,116559,Debit Card,2026-10-20,5.0
+1659,Matthew Fernandez,40.0,Male,Pune,Clothing,Shoes,3,3659,10977,Cash,2026-10-21,3.0
+1660,Jennifer Walsh,42.0,Male,Hyderabad,Electronics,Mobile,2,33126,66252,Credit Card,2026-10-22,3.0
+1661,Monica Douglas,39.0,Male,Chennai,Sports,Mobile,2,29851,59702,UPI,2026-10-23,5.0
+1662,Nancy Rice,44.0,Female,Mumbai,Beauty,Laptop,1,37798,37798,Credit Card,2026-10-24,4.0
+1663,Michael Hill,30.0,Male,Pune,Sports,Shoes,4,17565,70260,Credit Card,2026-10-25,5.0
+1664,Kevin Ryan,50.0,Female,Chennai,Beauty,Bag,1,22138,22138,UPI,2026-10-26,5.0
+1665,Kevin Rivera,51.0,Female,Hyderabad,Home,Mobile,3,1573,4719,Credit Card,2026-10-27,4.0
+1667,Tonya Preston,52.0,Male,Bangalore,Home,Bag,5,19271,96355,Cash,2026-10-29,4.0
+1668,Ashley Foster,18.0,Female,Hyderabad,Electronics,Mobile,2,35961,71922,Credit Card,2026-10-30,4.0
+1669,Jasmine Holloway,40.0,Male,Mumbai,Beauty,Camera,5,42830,214150,UPI,2026-10-31,4.0
+1670,Dawn Andrews,23.0,Female,Chennai,Sports,Camera,5,29820,149100,Debit Card,2026-11-01,5.0
+1671,Kevin Gregory,45.0,Male,Bangalore,Home,Mobile,5,4840,24200,Credit Card,2026-11-02,2.0
+1672,Denise Burgess,34.0,Female,Bangalore,Sports,Shoes,3,35424,106272,Cash,2026-11-03,2.0
+1673,Alan Stewart,22.0,Male,Pune,Clothing,T-Shirt,5,16684,83420,UPI,2026-11-04,1.0
+1674,Thomas Walker,48.0,Female,Bangalore,Home,T-Shirt,5,41234,206170,Credit Card,2026-11-05,2.0
+1675,Valerie Hunter,22.0,Male,Mumbai,Beauty,Shoes,5,3080,15400,Credit Card,2026-11-06,2.0
+1676,Renee Alvarez,55.0,Male,Mumbai,Home,Headphones,1,40525,40525,Credit Card,2026-11-07,5.0
+1677,Anna Porter,20.0,Male,Delhi,Sports,T-Shirt,3,29467,88401,Cash,2026-11-08,4.0
+1678,Harry Davenport,40.0,Male,Mumbai,Electronics,Camera,2,2659,5318,UPI,2026-11-09,4.0
+1680,Troy Day,54.0,Female,Bangalore,Beauty,Shoes,4,14400,57600,Debit Card,2026-11-11,2.0
+1681,Mary Villarreal,27.0,Male,Mumbai,Clothing,Laptop,3,11940,35820,Debit Card,2026-11-12,5.0
+1682,Jason Rojas,27.0,Female,Pune,Electronics,Camera,3,15178,45534,UPI,2026-11-13,1.0
+1683,Barry Christensen,36.0,Male,Delhi,Clothing,Watch,4,47704,190816,Debit Card,2026-11-14,4.0
+1684,Miranda Anderson,34.0,Male,Bangalore,Home,Watch,4,12521,50084,Cash,2026-11-15,3.0
+1685,Christopher Green,38.0,Female,Delhi,Sports,Shoes,4,7272,29088,UPI,2026-11-16,1.0
+1686,Tiffany Nelson,31.0,Male,Bangalore,Sports,Watch,2,2127,4254,Credit Card,2026-11-17,1.0
+1687,Richard Orr,26.0,Male,Pune,Beauty,Shoes,5,44932,224660,Cash,2026-11-18,5.0
+1688,Tammy Macdonald,18.0,Female,Delhi,Sports,T-Shirt,3,8719,26157,Credit Card,2026-11-19,2.0
+1689,David Perez,30.0,Male,Chennai,Electronics,Mobile,5,23964,119820,Debit Card,2026-11-20,4.0
+1690,Heather Yates,21.0,Male,Hyderabad,Sports,Camera,5,30732,153660,Cash,2026-11-21,3.0
+1691,Robert Harris,18.0,Male,Chennai,Beauty,Headphones,4,42981,171924,UPI,2026-11-22,1.0
+1692,Dylan Smith,57.0,Male,Bangalore,Home,Mobile,2,8988,17976,Cash,2026-11-23,3.0
+1693,Dr. Taylor Chapman,49.0,Female,Chennai,Home,Camera,1,35449,35449,Credit Card,2026-11-24,2.0
+1694,Angela Campbell,51.0,Female,Delhi,Sports,Shoes,2,44862,89724,UPI,2026-11-25,2.0
+1695,Brandon Herrera,45.0,Female,Chennai,Clothing,Camera,5,40432,202160,Cash,2026-11-26,3.0
+1696,Veronica Perez,48.0,Male,Chennai,Home,T-Shirt,2,19481,38962,Cash,2026-11-27,4.0
+1697,Erin James,25.0,Male,Delhi,Sports,Shoes,4,1401,5604,Cash,2026-11-28,2.0
+1698,Cameron Clark,56.0,Female,Pune,Beauty,Mobile,1,22944,22944,Credit Card,2026-11-29,3.0
+1699,Lisa Fischer,43.0,Male,Chennai,Sports,Laptop,4,42558,170232,UPI,2026-11-30,1.0
+1700,Crystal Garcia,51.0,Male,Chennai,Home,Laptop,1,18561,18561,Credit Card,2026-12-01,3.0
+1701,Elizabeth Garza,20.0,Male,Pune,Beauty,Bag,5,3381,16905,Cash,2026-12-02,3.0
+1702,Michael Lester,40.0,Male,Chennai,Sports,Bag,1,30363,30363,UPI,2026-12-03,5.0
+1703,Justin Anderson,18.0,Female,Chennai,Electronics,Camera,1,46326,46326,Credit Card,2026-12-04,2.0
+1704,Thomas Sanchez,22.0,Female,Chennai,Beauty,Laptop,1,6122,6122,Cash,2026-12-05,4.0
+1706,Lauren Griffith,47.0,Male,Mumbai,Clothing,Watch,2,18132,36264,Credit Card,2026-12-07,5.0
+1707,Luis Davis MD,34.0,Female,Chennai,Beauty,Shoes,5,28811,144055,UPI,2026-12-08,4.0
+1708,Kim Garza,40.0,Female,Chennai,Electronics,Watch,1,6150,6150,Credit Card,2026-12-09,3.0
+1709,Elizabeth Rodriguez,32.0,Male,Hyderabad,Home,Mobile,3,45701,137103,UPI,2026-12-10,5.0
+1710,Jason Bradford,54.0,Male,Pune,Home,Headphones,5,42724,213620,Cash,2026-12-11,1.0
+1711,Angela Clark,38.0,Female,Bangalore,Clothing,Watch,1,7536,7536,Credit Card,2026-12-12,2.0
+1712,Candace Herrera,31.0,Female,Bangalore,Beauty,Laptop,1,39755,39755,Credit Card,2026-12-13,2.0
+1713,John Tran,40.0,Female,Chennai,Beauty,Shoes,2,22999,45998,Debit Card,2026-12-14,2.0
+1714,Andrew Wall,28.0,Female,Hyderabad,Beauty,Mobile,5,37516,187580,Cash,2026-12-15,3.0
+1715,Molly Castro,56.0,Male,Hyderabad,Clothing,Laptop,1,5103,5103,Cash,2026-12-16,1.0
+1716,Drew Castillo,55.0,Female,Pune,Beauty,Mobile,1,28273,28273,Debit Card,2026-12-17,5.0
+1717,William Blanchard,51.0,Female,Pune,Home,Headphones,5,20437,102185,Debit Card,2026-12-18,5.0
+1718,Dustin Anderson,55.0,Male,Hyderabad,Electronics,T-Shirt,3,13132,39396,UPI,2026-12-19,2.0
+1719,William Williams,51.0,Female,Pune,Home,Shoes,5,31107,155535,UPI,2026-12-20,1.0
+1720,Stacy Jackson,35.0,Male,Chennai,Home,Camera,5,26837,134185,Credit Card,2026-12-21,1.0
+1721,Crystal Collins,47.0,Male,Mumbai,Electronics,Shoes,3,720,2160,Credit Card,2026-12-22,1.0
+1723,James Drake,44.0,Female,Bangalore,Clothing,Headphones,1,5318,5318,Credit Card,2026-12-24,4.0
+1724,Michael Bell,51.0,Female,Pune,Electronics,Shoes,5,7849,39245,UPI,2026-12-25,2.0
+1725,Jacob Lucas,55.0,Male,Hyderabad,Home,Bag,3,6118,18354,Cash,2026-12-26,1.0
+1726,Olivia Turner,40.0,Female,Hyderabad,Sports,Camera,4,27964,111856,Credit Card,2026-12-27,3.0
+1727,Ryan Howard,40.0,Female,Pune,Home,Watch,5,43124,215620,Cash,2026-12-28,5.0
+1728,Zachary Black,32.0,Male,Mumbai,Clothing,Mobile,2,37844,75688,Credit Card,2026-12-29,5.0
+1729,Justin Lester,47.0,Male,Mumbai,Beauty,Camera,1,18755,18755,Debit Card,2026-12-30,2.0
+1730,Scott Alexander,59.0,Female,Pune,Home,Laptop,1,24799,24799,Credit Card,2026-12-31,1.0
+1731,John Jones,34.0,Male,Delhi,Beauty,Headphones,2,48475,96950,Credit Card,2027-01-01,2.0
+1732,John Peterson,22.0,Female,Pune,Sports,Watch,2,1962,3924,Credit Card,2027-01-02,5.0
+1733,Tara Robinson,46.0,Female,Pune,Home,Laptop,5,16405,82025,Credit Card,2027-01-03,5.0
+1734,Christopher Brown,40.0,Female,Mumbai,Electronics,Laptop,2,25420,50840,Debit Card,2027-01-04,4.0
+1735,Shannon Wiley,27.0,Female,Mumbai,Beauty,Headphones,4,16752,67008,Credit Card,2027-01-05,2.0
+1736,Michael Rodriguez,34.0,Male,Pune,Sports,Watch,3,41504,124512,Credit Card,2027-01-06,2.0
+1737,Kristen Mullins,27.0,Male,Pune,Electronics,T-Shirt,2,41081,82162,Cash,2027-01-07,1.0
+1738,Katrina Escobar,34.0,Male,Pune,Electronics,Laptop,2,35336,70672,Debit Card,2027-01-08,1.0
+1739,Karla Parsons,37.0,Male,Mumbai,Electronics,Laptop,4,6253,25012,Credit Card,2027-01-09,4.0
+1740,Renee Taylor,41.0,Female,Pune,Electronics,Watch,1,40505,40505,Cash,2027-01-10,3.0
+1741,Luis Brown,22.0,Female,Pune,Home,Shoes,1,14675,14675,Cash,2027-01-11,3.0
+1742,Malik Marsh,51.0,Male,Chennai,Home,Laptop,5,6691,33455,UPI,2027-01-12,3.0
+1743,Brian Long,23.0,Female,Delhi,Home,Mobile,4,18398,73592,Cash,2027-01-13,2.0
+1744,Tamara Pacheco,19.0,Female,Bangalore,Sports,Watch,3,19482,58446,Credit Card,2027-01-14,2.0
+1745,Allen Rodriguez,30.0,Female,Delhi,Sports,Laptop,3,15122,45366,UPI,2027-01-15,5.0
+1746,Melissa Harvey,28.0,Male,Chennai,Sports,Headphones,4,1501,6004,UPI,2027-01-16,2.0
+1747,Brian Ellis,40.0,Male,Bangalore,Clothing,Camera,3,48145,144435,Credit Card,2027-01-17,2.0
+1748,Catherine Mitchell,33.0,Male,Pune,Sports,Mobile,1,43500,43500,Debit Card,2027-01-18,2.0
+1749,Jennifer Cross,40.0,Female,Chennai,Home,Bag,3,23783,71349,Cash,2027-01-19,4.0
+1750,Daniel Reed,28.0,Male,Pune,Home,Bag,3,21935,65805,UPI,2027-01-20,2.0
+1751,Angela Freeman,33.0,Male,Mumbai,Clothing,Camera,4,27723,110892,Debit Card,2027-01-21,1.0
+1752,Jessica Lutz,25.0,Male,Hyderabad,Clothing,Bag,4,37744,150976,Credit Card,2027-01-22,1.0
+1753,Jason Dixon,21.0,Male,Chennai,Sports,Camera,3,30524,91572,Cash,2027-01-23,5.0
+1754,Christina Johnson,57.0,Male,Mumbai,Beauty,Laptop,2,31234,62468,Cash,2027-01-24,4.0
+1755,Melissa Jackson,21.0,Male,Chennai,Clothing,Mobile,4,1015,4060,UPI,2027-01-25,1.0
+1757,Ronald Moore,20.0,Female,Mumbai,Home,Shoes,5,1691,8455,Cash,2027-01-27,4.0
+1758,Tracey Lewis,49.0,Male,Bangalore,Electronics,Camera,1,32764,32764,Cash,2027-01-28,5.0
+1759,Kelsey Taylor,20.0,Male,Delhi,Home,Mobile,3,44128,132384,Cash,2027-01-29,4.0
+1760,Christopher Harris,44.0,Female,Pune,Home,Shoes,2,46716,93432,Credit Card,2027-01-30,2.0
+1761,Morgan Vasquez,46.0,Female,Chennai,Clothing,Watch,1,6797,6797,Debit Card,2027-01-31,4.0
+1762,Steven Marshall,49.0,Male,Pune,Clothing,Shoes,3,28356,85068,Credit Card,2027-02-01,5.0
+1763,Rebecca White,36.0,Male,Hyderabad,Electronics,Headphones,4,49923,199692,Credit Card,2027-02-02,5.0
+1764,Kimberly Nelson,38.0,Male,Mumbai,Home,T-Shirt,5,8834,44170,UPI,2027-02-03,5.0
+1765,Cassandra Kelly,22.0,Male,Pune,Electronics,Laptop,2,24662,49324,Cash,2027-02-04,1.0
+1766,Jeremy Cunningham,35.0,Female,Mumbai,Beauty,Watch,5,6508,32540,Credit Card,2027-02-05,2.0
+1767,Rick Jimenez,45.0,Male,Pune,Electronics,T-Shirt,4,8487,33948,Cash,2027-02-06,1.0
+1768,Emily Bowman,59.0,Male,Delhi,Sports,T-Shirt,3,31466,94398,Credit Card,2027-02-07,3.0
+1769,Elizabeth Romero,39.0,Male,Delhi,Electronics,Watch,4,3832,15328,Credit Card,2027-02-08,3.0
+1770,Joseph Nelson II,40.0,Male,Delhi,Sports,Headphones,4,1287,5148,UPI,2027-02-09,4.0
+1771,Andrea Saunders,23.0,Female,Delhi,Sports,Shoes,5,39490,197450,Debit Card,2027-02-10,5.0
+1772,Virginia Leon,18.0,Female,Delhi,Sports,Laptop,2,10373,20746,Debit Card,2027-02-11,3.0
+1773,James Smith,22.0,Female,Delhi,Beauty,Shoes,4,17506,70024,Credit Card,2027-02-12,2.0
+1774,Clifford Galvan,58.0,Male,Mumbai,Electronics,Mobile,5,20725,103625,UPI,2027-02-13,1.0
+1775,Tracey Butler,29.0,Male,Chennai,Electronics,Shoes,2,36944,73888,Cash,2027-02-14,5.0
+1776,Rachel Singleton,43.0,Female,Pune,Beauty,Bag,3,35840,107520,Cash,2027-02-15,3.0
+1777,Michael Bowers,51.0,Male,Delhi,Home,Watch,3,40183,120549,Credit Card,2027-02-16,2.0
+1778,Megan Hernandez,31.0,Male,Chennai,Clothing,Laptop,1,5533,5533,Debit Card,2027-02-17,2.0
+1779,Timothy Gregory,43.0,Female,Mumbai,Electronics,Shoes,5,8288,41440,UPI,2027-02-18,3.0
+1780,Pamela Miller,44.0,Female,Mumbai,Clothing,Laptop,2,16189,32378,Debit Card,2027-02-19,4.0
+1781,Dr. Jessica Strickland,26.0,Female,Chennai,Beauty,Laptop,4,44720,178880,Cash,2027-02-20,1.0
+1782,Adam Martinez,43.0,Female,Pune,Home,Mobile,3,22098,66294,Debit Card,2027-02-21,3.0
+1783,Shannon Wilson,39.0,Male,Chennai,Home,Mobile,2,37980,75960,Cash,2027-02-22,3.0
+1784,Mariah Munoz,47.0,Male,Bangalore,Home,Watch,5,30203,151015,UPI,2027-02-23,4.0
+1785,Michele Leon,34.0,Female,Mumbai,Beauty,Headphones,1,566,566,UPI,2027-02-24,3.0
+1786,Daniel Warren,43.0,Male,Bangalore,Sports,Bag,3,49123,147369,Credit Card,2027-02-25,1.0
+1787,Denise Stanley,53.0,Female,Hyderabad,Sports,T-Shirt,2,45746,91492,Credit Card,2027-02-26,2.0
+1788,Elizabeth Nguyen,18.0,Female,Delhi,Clothing,Laptop,2,8033,16066,Debit Card,2027-02-27,5.0
+1789,Christopher Lambert,25.0,Male,Delhi,Sports,Headphones,2,15603,31206,UPI,2027-02-28,1.0
+1790,Amanda Miller,52.0,Female,Chennai,Sports,T-Shirt,5,5116,25580,UPI,2027-03-01,4.0
+1792,Sheila Vincent,40.0,Male,Bangalore,Home,Bag,5,38998,194990,Cash,2027-03-03,2.0
+1793,Ryan Walters,31.0,Male,Pune,Clothing,Watch,4,43992,175968,Debit Card,2027-03-04,2.0
+1794,Kristy Bennett,40.0,Male,Chennai,Electronics,T-Shirt,2,12272,24544,Debit Card,2027-03-05,5.0
+1795,David Mitchell,45.0,Female,Delhi,Clothing,Bag,3,24349,73047,Credit Card,2027-03-06,5.0
+1797,Kenneth Adams,31.0,Female,Pune,Beauty,Laptop,5,13440,67200,Credit Card,2027-03-08,2.0
+1798,Dr. Shawn Cross,41.0,Female,Delhi,Beauty,Laptop,2,17432,34864,Credit Card,2027-03-09,4.0
+1799,Angela Garcia,40.0,Female,Bangalore,Clothing,Camera,5,30269,151345,Credit Card,2027-03-10,2.0
+1800,Leah Oliver,43.0,Female,Delhi,Clothing,Headphones,4,25148,100592,Credit Card,2027-03-11,3.0
+1801,Karen Thompson,31.0,Male,Pune,Clothing,Shoes,4,47911,191644,Cash,2027-03-12,1.0
+1802,Linda Phelps MD,24.0,Male,Bangalore,Sports,Bag,5,33466,167330,Cash,2027-03-13,2.0
+1803,Kevin Clark,20.0,Female,Bangalore,Beauty,Mobile,2,28277,56554,UPI,2027-03-14,5.0
+1804,Cynthia Rodriguez,40.0,Female,Delhi,Clothing,Bag,2,33067,66134,Credit Card,2027-03-15,3.0
+1805,Cynthia Hamilton,35.0,Male,Pune,Home,Shoes,2,17674,35348,Cash,2027-03-16,5.0
+1806,Brandon Wood,55.0,Female,Chennai,Home,Headphones,1,43098,43098,UPI,2027-03-17,3.0
+1807,Erin Burton,52.0,Male,Pune,Sports,Mobile,5,14298,71490,Credit Card,2027-03-18,2.0
+1808,Brent Wilkerson,32.0,Female,Mumbai,Sports,Shoes,2,18058,36116,Debit Card,2027-03-19,1.0
+1809,Christine Armstrong,42.0,Male,Hyderabad,Electronics,Camera,4,44737,178948,Cash,2027-03-20,5.0
+1810,Roger Reyes,54.0,Female,Chennai,Electronics,Mobile,3,678,2034,UPI,2027-03-21,3.0
+1811,Ashley Moore,45.0,Female,Bangalore,Electronics,Laptop,3,20970,62910,Debit Card,2027-03-22,4.0
+1812,Anthony Contreras,27.0,Male,Chennai,Sports,Shoes,2,17618,35236,Credit Card,2027-03-23,2.0
+1813,Douglas Young,56.0,Female,Bangalore,Sports,Bag,3,23116,69348,Credit Card,2027-03-24,1.0
+1814,Malik Lopez,34.0,Female,Bangalore,Sports,Mobile,3,1298,3894,Credit Card,2027-03-25,2.0
+1815,Kimberly Price,56.0,Male,Chennai,Home,Camera,1,8101,8101,Credit Card,2027-03-26,3.0
+1816,Damon Diaz,39.0,Female,Bangalore,Sports,Bag,4,25863,103452,UPI,2027-03-27,1.0
+1817,Phillip Jones,43.0,Male,Bangalore,Home,T-Shirt,4,3295,13180,Debit Card,2027-03-28,4.0
+1818,Sheila Adkins,42.0,Male,Mumbai,Electronics,Mobile,1,32426,32426,UPI,2027-03-29,2.0
+1819,Tiffany Vasquez,34.0,Female,Pune,Electronics,Mobile,1,45764,45764,Cash,2027-03-30,3.0
+1820,Christopher Matthews,30.0,Female,Pune,Electronics,Camera,3,37856,113568,UPI,2027-03-31,2.0
+1821,Thomas Parker,37.0,Female,Hyderabad,Clothing,T-Shirt,5,7797,38985,Cash,2027-04-01,2.0
+1822,Christina Williamson,42.0,Female,Hyderabad,Clothing,Shoes,3,3584,10752,Credit Card,2027-04-02,2.0
+1823,Morgan Case,21.0,Female,Mumbai,Beauty,Watch,1,30829,30829,Debit Card,2027-04-03,5.0
+1824,Christopher Myers,27.0,Female,Hyderabad,Beauty,Shoes,4,11610,46440,Credit Card,2027-04-04,4.0
+1825,Hannah Chandler,20.0,Female,Chennai,Beauty,T-Shirt,3,1231,3693,UPI,2027-04-05,4.0
+1826,Ryan Martin,58.0,Male,Delhi,Clothing,Headphones,5,1629,8145,Credit Card,2027-04-06,4.0
+1827,Kenneth Smith,35.0,Female,Delhi,Clothing,Bag,3,28522,85566,Debit Card,2027-04-07,5.0
+1828,Samantha Smith,53.0,Male,Delhi,Beauty,Camera,2,2105,4210,Credit Card,2027-04-08,3.0
+1829,Jeffrey Riley,39.0,Female,Mumbai,Beauty,Shoes,3,12470,37410,Debit Card,2027-04-09,2.0
+1830,Robert Todd,51.0,Female,Mumbai,Sports,Mobile,1,44205,44205,Debit Card,2027-04-10,3.0
+1831,Robin Ramirez,25.0,Male,Bangalore,Beauty,Camera,4,44630,178520,Credit Card,2027-04-11,5.0
+1832,Desiree Cook,57.0,Female,Delhi,Sports,Laptop,4,29765,119060,Cash,2027-04-12,4.0
+1833,Phillip Noble,36.0,Female,Chennai,Home,T-Shirt,1,32830,32830,UPI,2027-04-13,2.0
+1834,Robyn Thompson,59.0,Male,Hyderabad,Clothing,Bag,2,3433,6866,Cash,2027-04-14,1.0
+1835,Jill Gibson,58.0,Female,Chennai,Beauty,Shoes,1,15687,15687,Cash,2027-04-15,1.0
+1836,Kelly Taylor,54.0,Female,Hyderabad,Clothing,Camera,3,26291,78873,Credit Card,2027-04-16,3.0
+1837,Cynthia Garcia,23.0,Female,Delhi,Clothing,Bag,1,25400,25400,UPI,2027-04-17,4.0
+1838,Ryan Deleon,43.0,Male,Delhi,Clothing,Shoes,1,5574,5574,UPI,2027-04-18,1.0
+1839,Luke Mcneil,51.0,Female,Delhi,Home,Camera,2,47305,94610,Cash,2027-04-19,3.0
+1840,James Sharp,23.0,Female,Mumbai,Electronics,Mobile,3,26926,80778,Credit Card,2027-04-20,5.0
+1841,Michael Dickerson,54.0,Female,Hyderabad,Beauty,Laptop,5,40367,201835,UPI,2027-04-21,3.0
+1842,Valerie Palmer,50.0,Female,Mumbai,Electronics,Laptop,5,1393,6965,Cash,2027-04-22,3.0
+1843,Jessica Robbins,39.0,Male,Mumbai,Electronics,Headphones,4,34658,138632,UPI,2027-04-23,3.0
+1844,Jacqueline Carpenter,38.0,Male,Pune,Electronics,Camera,1,20273,20273,Credit Card,2027-04-24,2.0
+1845,Scott Washington,23.0,Female,Chennai,Clothing,Shoes,4,4739,18956,Credit Card,2027-04-25,3.0
+1846,Elizabeth Barber,23.0,Female,Chennai,Sports,Laptop,2,21363,42726,Credit Card,2027-04-26,3.0
+1847,Sonya Gutierrez,21.0,Male,Bangalore,Clothing,T-Shirt,5,3932,19660,UPI,2027-04-27,2.0
+1848,Amy Wilson,47.0,Male,Mumbai,Clothing,Laptop,1,35639,35639,Debit Card,2027-04-28,2.0
+1849,William Chase,28.0,Female,Hyderabad,Electronics,Watch,2,2015,4030,UPI,2027-04-29,5.0
+1850,Catherine Campbell,47.0,Male,Pune,Clothing,Watch,2,32170,64340,Debit Card,2027-04-30,4.0
+1851,Scott Parker,48.0,Female,Pune,Electronics,Laptop,1,49174,49174,Credit Card,2027-05-01,1.0
+1852,Gregory Bender,41.0,Male,Chennai,Sports,Camera,2,39594,79188,Cash,2027-05-02,1.0
+1853,Richard Bradshaw,26.0,Male,Mumbai,Beauty,Headphones,1,15105,15105,Debit Card,2027-05-03,3.0
+1854,Julie Jones,20.0,Male,Bangalore,Electronics,Laptop,1,6086,6086,Credit Card,2027-05-04,5.0
+1855,Cynthia Fletcher,48.0,Male,Mumbai,Sports,Mobile,3,36185,108555,Credit Card,2027-05-05,3.0
+1856,Lori Scott,57.0,Female,Delhi,Beauty,Bag,4,49169,196676,Debit Card,2027-05-06,1.0
+1857,Scott Ward IV,54.0,Male,Mumbai,Home,Shoes,2,31686,63372,Cash,2027-05-07,2.0
+1858,Juan Cline,53.0,Male,Delhi,Electronics,Headphones,2,27428,54856,Credit Card,2027-05-08,4.0
+1859,Amy Gardner,40.0,Female,Delhi,Electronics,Mobile,3,33228,99684,Debit Card,2027-05-09,5.0
+1860,Madeline Wilson,48.0,Male,Bangalore,Home,Headphones,3,18051,54153,Cash,2027-05-10,2.0
+1861,Lisa Shah,23.0,Male,Hyderabad,Home,Mobile,3,21993,65979,Cash,2027-05-11,4.0
+1862,Kathleen Weaver,19.0,Female,Chennai,Electronics,Shoes,5,21211,106055,Credit Card,2027-05-12,5.0
+1863,Cindy Johnson,37.0,Male,Mumbai,Home,Shoes,5,20539,102695,UPI,2027-05-13,5.0
+1864,Becky Baker,45.0,Female,Delhi,Clothing,Watch,5,37061,185305,UPI,2027-05-14,1.0
+1865,Sarah Wiley,28.0,Female,Mumbai,Beauty,Camera,1,10447,10447,Credit Card,2027-05-15,2.0
+1866,Yolanda Fields,21.0,Female,Hyderabad,Beauty,Mobile,2,32835,65670,Cash,2027-05-16,5.0
+1867,Ashley Hanson,32.0,Female,Chennai,Beauty,Bag,4,16359,65436,Credit Card,2027-05-17,5.0
+1868,Jonathan Brown,23.0,Male,Chennai,Clothing,Watch,1,23622,23622,Debit Card,2027-05-18,4.0
+1869,Mackenzie Estrada,47.0,Female,Chennai,Home,Mobile,2,2077,4154,UPI,2027-05-19,1.0
+1870,Amanda Walker MD,55.0,Male,Pune,Sports,Watch,2,42756,85512,Debit Card,2027-05-20,3.0
+1871,Mike Alexander,19.0,Male,Chennai,Home,Shoes,3,28850,86550,Credit Card,2027-05-21,1.0
+1872,Charlotte Bradley,32.0,Male,Bangalore,Electronics,Headphones,3,42432,127296,Credit Card,2027-05-22,3.0
+1873,Andrea Forbes,28.0,Male,Hyderabad,Beauty,T-Shirt,1,34298,34298,Cash,2027-05-23,2.0
+1874,Melissa Griffith,25.0,Male,Delhi,Home,Watch,3,32398,97194,Cash,2027-05-24,2.0
+1875,Jessica Smith,43.0,Male,Pune,Sports,Mobile,2,16381,32762,Cash,2027-05-25,5.0
+1876,Pamela Nelson,22.0,Male,Bangalore,Electronics,Mobile,3,11285,33855,Debit Card,2027-05-26,2.0
+1877,Jonathan Alexander,23.0,Male,Mumbai,Clothing,T-Shirt,5,7191,35955,Cash,2027-05-27,5.0
+1878,Rachel Robinson,43.0,Male,Hyderabad,Clothing,Camera,3,17797,53391,Credit Card,2027-05-28,1.0
+1879,Teresa Walter,21.0,Male,Delhi,Sports,Bag,2,6858,13716,Cash,2027-05-29,2.0
+1880,Samantha Meyer PhD,36.0,Female,Chennai,Electronics,Shoes,1,20081,20081,UPI,2027-05-30,1.0
+1881,Maria Ramirez,37.0,Female,Delhi,Beauty,Mobile,4,1962,7848,Cash,2027-05-31,1.0
+1882,Larry Neal,50.0,Female,Mumbai,Home,Laptop,3,16011,48033,Debit Card,2027-06-01,2.0
+1883,Rachel Mckenzie,37.0,Male,Pune,Electronics,Headphones,2,11070,22140,UPI,2027-06-02,1.0
+1884,Deborah Lyons,29.0,Female,Pune,Clothing,Watch,4,49165,196660,UPI,2027-06-03,2.0
+1885,Joseph Gibson PhD,18.0,Female,Hyderabad,Sports,Camera,4,44914,179656,UPI,2027-06-04,2.0
+1886,Judy Ferguson,43.0,Female,Pune,Sports,Bag,5,15974,79870,Debit Card,2027-06-05,2.0
+1887,Jessica Jackson,31.0,Male,Hyderabad,Home,T-Shirt,4,7537,30148,Credit Card,2027-06-06,3.0
+1888,Daniel Allen,40.0,Male,Hyderabad,Sports,Headphones,2,28629,57258,Cash,2027-06-07,1.0
+1889,Daniel Bryant,54.0,Male,Hyderabad,Sports,Shoes,2,42767,85534,UPI,2027-06-08,4.0
+1890,Olivia Cole,28.0,Male,Chennai,Electronics,Camera,3,13886,41658,UPI,2027-06-09,2.0
+1891,Karen Ruiz DVM,53.0,Female,Bangalore,Beauty,Bag,3,6721,20163,UPI,2027-06-10,1.0
+1892,Madison Blanchard,30.0,Female,Hyderabad,Home,Watch,3,23974,71922,Credit Card,2027-06-11,5.0
+1893,Brandon Trujillo,20.0,Female,Hyderabad,Electronics,Watch,4,41037,164148,Credit Card,2027-06-12,2.0
+1894,Julie Lane DDS,50.0,Female,Bangalore,Beauty,T-Shirt,4,47624,190496,Debit Card,2027-06-13,2.0
+1895,Stephen Hale,23.0,Male,Delhi,Electronics,Laptop,5,21545,107725,Credit Card,2027-06-14,4.0
+1896,Megan Rivas,27.0,Male,Hyderabad,Electronics,T-Shirt,3,26283,78849,Cash,2027-06-15,3.0
+1897,Crystal Walsh,22.0,Male,Chennai,Sports,Shoes,1,40657,40657,Debit Card,2027-06-16,3.0
+1898,Brittany Anderson,40.0,Female,Pune,Beauty,Camera,5,5422,27110,Debit Card,2027-06-17,2.0
+1899,Cynthia Jenkins,27.0,Male,Pune,Home,Camera,1,46907,46907,Cash,2027-06-18,1.0
+1900,Debra Martinez,19.0,Male,Mumbai,Home,Mobile,4,23206,92824,Cash,2027-06-19,5.0
+1901,Kelly Barnes,30.0,Female,Mumbai,Beauty,Laptop,5,43271,216355,Cash,2027-06-20,5.0
+1902,Christine Ritter,57.0,Female,Pune,Sports,Laptop,5,32979,164895,Debit Card,2027-06-21,1.0
+1903,Tracey Lynn,19.0,Male,Pune,Clothing,Camera,2,5678,11356,Debit Card,2027-06-22,2.0
+1904,Kaylee Gilmore,37.0,Male,Chennai,Electronics,Camera,4,30522,122088,Debit Card,2027-06-23,5.0
+1905,Frederick Payne,18.0,Male,Bangalore,Sports,Headphones,4,15740,62960,Cash,2027-06-24,3.0
+1906,Casey Jackson,54.0,Male,Chennai,Beauty,Bag,5,26720,133600,Cash,2027-06-25,1.0
+1907,Henry Rivas,26.0,Male,Bangalore,Electronics,Headphones,4,37236,148944,UPI,2027-06-26,4.0
+1908,Kimberly Miller,34.0,Male,Chennai,Home,Headphones,5,3216,16080,Credit Card,2027-06-27,2.0
+1909,Dillon Smith,26.0,Female,Pune,Clothing,Laptop,2,17074,34148,UPI,2027-06-28,1.0
+1911,Kenneth Yang,32.0,Female,Bangalore,Beauty,Watch,4,18219,72876,Debit Card,2027-06-30,2.0
+1912,Daniel Turner PhD,41.0,Male,Pune,Electronics,Headphones,4,8681,34724,Cash,2027-07-01,3.0
+1914,Michelle Davenport,52.0,Male,Delhi,Electronics,T-Shirt,5,44566,222830,UPI,2027-07-03,2.0
+1915,Kelsey Cox,47.0,Male,Bangalore,Sports,Shoes,5,20713,103565,UPI,2027-07-04,3.0
+1916,Shane Thompson,48.0,Female,Hyderabad,Clothing,Headphones,3,6880,20640,Debit Card,2027-07-05,3.0
+1917,Michelle Pineda,22.0,Male,Bangalore,Sports,T-Shirt,4,1115,4460,UPI,2027-07-06,2.0
+1918,Jared Burton,31.0,Male,Pune,Sports,Watch,4,963,3852,UPI,2027-07-07,3.0
+1919,Joseph Hayes,28.0,Female,Hyderabad,Beauty,Shoes,3,32473,97419,Cash,2027-07-08,1.0
+1920,Samantha Howard,26.0,Female,Chennai,Clothing,Shoes,5,9658,48290,UPI,2027-07-09,3.0
+1921,Margaret Hester,51.0,Female,Delhi,Electronics,Watch,2,21151,42302,UPI,2027-07-10,3.0
+1922,Dominic Zimmerman,29.0,Male,Pune,Electronics,Headphones,5,3658,18290,UPI,2027-07-11,2.0
+1923,Christopher Rosario,52.0,Female,Mumbai,Home,Laptop,5,20508,102540,Debit Card,2027-07-12,1.0
+1924,Hannah Caldwell,52.0,Female,Mumbai,Electronics,Watch,3,46702,140106,Debit Card,2027-07-13,4.0
+1925,Kayla Porter,18.0,Male,Delhi,Beauty,Watch,4,5438,21752,Cash,2027-07-14,4.0
+1926,Sarah Mills,57.0,Female,Chennai,Sports,Watch,5,38685,193425,UPI,2027-07-15,5.0
+1927,Craig Hartman,39.0,Female,Pune,Sports,Shoes,4,22888,91552,Debit Card,2027-07-16,3.0
+1928,Matthew Norris,46.0,Female,Bangalore,Sports,Bag,1,9381,9381,Debit Card,2027-07-17,3.0
+1929,Joseph May,25.0,Male,Delhi,Clothing,Mobile,4,6103,24412,Cash,2027-07-18,1.0
+1930,Kelly Garner,28.0,Male,Chennai,Electronics,T-Shirt,2,35480,70960,Credit Card,2027-07-19,4.0
+1931,Brenda Snyder,58.0,Male,Bangalore,Beauty,Laptop,2,23004,46008,UPI,2027-07-20,5.0
+1932,Veronica Graves,54.0,Male,Mumbai,Clothing,Headphones,5,17266,86330,Debit Card,2027-07-21,1.0
+1933,Billy Sherman,31.0,Female,Mumbai,Home,Headphones,4,28886,115544,Cash,2027-07-22,3.0
+1934,Andrew Schwartz,47.0,Male,Bangalore,Beauty,T-Shirt,5,12195,60975,Cash,2027-07-23,4.0
+1935,Jesse Gardner,52.0,Male,Delhi,Beauty,Mobile,3,18296,54888,Cash,2027-07-24,5.0
+1936,Edward Graves,38.0,Female,Mumbai,Beauty,Watch,2,43043,86086,Debit Card,2027-07-25,2.0
+1937,Carla Davis,54.0,Female,Pune,Sports,Bag,5,15059,75295,UPI,2027-07-26,4.0
+1938,Kent Meza,22.0,Female,Hyderabad,Beauty,Laptop,3,39414,118242,Credit Card,2027-07-27,3.0
+1939,Robert Stout,36.0,Male,Bangalore,Electronics,Headphones,5,33639,168195,UPI,2027-07-28,1.0
+1940,Tiffany Reeves,31.0,Male,Bangalore,Beauty,T-Shirt,4,38833,155332,Cash,2027-07-29,2.0
+1941,Brittany Bennett,43.0,Male,Mumbai,Sports,Camera,4,9302,37208,Cash,2027-07-30,5.0
+1942,Matthew Joseph,21.0,Female,Delhi,Beauty,Bag,4,8807,35228,Credit Card,2027-07-31,5.0
+1943,Patrick Choi,42.0,Female,Pune,Home,T-Shirt,4,40705,162820,UPI,2027-08-01,3.0
+1944,Sharon Fowler,59.0,Male,Delhi,Home,Bag,1,33714,33714,Cash,2027-08-02,4.0
+1945,Edward Zimmerman,42.0,Female,Chennai,Sports,Headphones,3,34659,103977,Cash,2027-08-03,3.0
+1946,Meredith Murphy,35.0,Female,Chennai,Electronics,Watch,3,12016,36048,Credit Card,2027-08-04,2.0
+1947,Emily Wilkins,57.0,Female,Hyderabad,Electronics,Camera,4,29586,118344,Cash,2027-08-05,5.0
+1948,Amanda Stewart,25.0,Male,Mumbai,Clothing,Mobile,1,48722,48722,UPI,2027-08-06,3.0
+1949,Robert Simpson,56.0,Female,Mumbai,Sports,Laptop,4,30980,123920,Credit Card,2027-08-07,4.0
+1950,Patrick Clark,57.0,Female,Mumbai,Beauty,Mobile,1,45159,45159,UPI,2027-08-08,2.0
+1951,Dr. David Smith,31.0,Male,Hyderabad,Sports,Mobile,4,48266,193064,Credit Card,2027-08-09,1.0
+1952,Tammy Thompson,49.0,Male,Chennai,Clothing,T-Shirt,2,39237,78474,Cash,2027-08-10,3.0
+1953,James Smith,55.0,Female,Delhi,Sports,Bag,2,9765,19530,Credit Card,2027-08-11,2.0
+1955,Mark Clay,40.0,Male,Hyderabad,Clothing,Laptop,4,5954,23816,Cash,2027-08-13,3.0
+1956,Anna Edwards,32.0,Male,Delhi,Electronics,Headphones,3,36418,109254,Debit Card,2027-08-14,2.0
+1957,Kelly Jenkins,50.0,Female,Mumbai,Beauty,Headphones,5,26681,133405,UPI,2027-08-15,2.0
+1958,Tammy Boyd,42.0,Female,Pune,Clothing,Laptop,2,15886,31772,Credit Card,2027-08-16,3.0
+1959,Melissa Anderson,34.0,Female,Delhi,Home,Camera,4,39682,158728,Credit Card,2027-08-17,2.0
+1960,Michael Tran,50.0,Female,Chennai,Electronics,Shoes,5,37925,189625,Credit Card,2027-08-18,5.0
+1961,Austin Johnson,40.0,Male,Bangalore,Home,Headphones,4,43754,175016,UPI,2027-08-19,3.0
+1962,Jennifer Bowers,31.0,Female,Bangalore,Electronics,Shoes,2,24827,49654,Debit Card,2027-08-20,2.0
+1963,Allison Ross,57.0,Female,Hyderabad,Beauty,T-Shirt,5,21681,108405,Credit Card,2027-08-21,1.0
+1964,Teresa Watson,57.0,Male,Bangalore,Beauty,Camera,2,48162,96324,UPI,2027-08-22,1.0
+1965,Brenda Williams,56.0,Female,Pune,Sports,Laptop,1,21952,21952,Cash,2027-08-23,5.0
+1966,Melissa Lewis,23.0,Male,Mumbai,Home,Camera,2,38748,77496,Credit Card,2027-08-24,3.0
+1967,Carrie Henderson,23.0,Female,Chennai,Electronics,Headphones,4,41301,165204,Credit Card,2027-08-25,2.0
+1968,Karen Tran,20.0,Female,Pune,Beauty,Mobile,3,34251,102753,Debit Card,2027-08-26,2.0
+1969,Bobby Hoover,24.0,Male,Chennai,Clothing,T-Shirt,2,22491,44982,Credit Card,2027-08-27,1.0
+1970,Megan Chavez,25.0,Male,Chennai,Beauty,Laptop,3,41811,125433,Credit Card,2027-08-28,3.0
+1971,Steven Vaughn,59.0,Female,Mumbai,Clothing,Watch,1,10416,10416,Cash,2027-08-29,1.0
+1972,Andrew Terrell,32.0,Female,Hyderabad,Electronics,T-Shirt,5,10643,53215,UPI,2027-08-30,1.0
+1973,Timothy Steele,46.0,Female,Bangalore,Beauty,Bag,5,26355,131775,UPI,2027-08-31,5.0
+1974,Anna Sanchez,50.0,Male,Mumbai,Beauty,Shoes,3,16081,48243,Credit Card,2027-09-01,3.0
+1975,Tracie Griffin,47.0,Female,Pune,Electronics,Camera,5,2407,12035,Cash,2027-09-02,2.0
+1976,Brett Green,56.0,Male,Hyderabad,Beauty,Laptop,2,29924,59848,UPI,2027-09-03,3.0
+1977,Heather Lester,44.0,Male,Pune,Clothing,T-Shirt,3,23808,71424,Cash,2027-09-04,4.0
+1978,Alexander Acosta,53.0,Female,Hyderabad,Beauty,Camera,4,42484,169936,Credit Card,2027-09-05,3.0
+1979,Taylor Hawkins,46.0,Male,Pune,Home,Laptop,2,42005,84010,Cash,2027-09-06,4.0
+1980,Travis Hayes,55.0,Female,Mumbai,Sports,Headphones,2,47025,94050,Debit Card,2027-09-07,3.0
+1981,Melanie Levy,50.0,Female,Hyderabad,Clothing,T-Shirt,2,37442,74884,Credit Card,2027-09-08,1.0
+1982,Nicole Santiago,54.0,Female,Hyderabad,Home,Headphones,4,27457,109828,Debit Card,2027-09-09,3.0
+1983,Mary Blackwell,44.0,Female,Chennai,Electronics,T-Shirt,1,25964,25964,UPI,2027-09-10,2.0
+1985,Jason Thomas,21.0,Male,Delhi,Sports,Bag,3,24149,72447,Credit Card,2027-09-12,3.0
+1986,Taylor Avila,39.0,Male,Pune,Sports,Camera,1,42565,42565,Debit Card,2027-09-13,4.0
+1987,Mr. Jose Garcia Jr.,19.0,Female,Chennai,Electronics,Watch,3,27625,82875,UPI,2027-09-14,4.0
+1988,Tonya Smith,27.0,Female,Delhi,Electronics,T-Shirt,5,35258,176290,UPI,2027-09-15,2.0
+1989,Sarah Tran,22.0,Male,Chennai,Clothing,Bag,4,6096,24384,Debit Card,2027-09-16,5.0
+1990,Monica Davis,27.0,Male,Pune,Beauty,T-Shirt,2,16874,33748,Credit Card,2027-09-17,1.0
+1991,Hannah Ramos,50.0,Male,Hyderabad,Electronics,Headphones,2,4275,8550,Debit Card,2027-09-18,5.0
+1992,Eric Davis,55.0,Male,Bangalore,Beauty,Laptop,4,27888,111552,Credit Card,2027-09-19,3.0
+1993,Keith Edwards,30.0,Female,Pune,Home,T-Shirt,1,21529,21529,Cash,2027-09-20,5.0
+1994,James Harvey,48.0,Female,Mumbai,Sports,Bag,1,18945,18945,Credit Card,2027-09-21,3.0
+1995,Audrey Miller,53.0,Male,Chennai,Beauty,Headphones,3,48974,146922,Cash,2027-09-22,3.0
+1996,Matthew Humphrey,41.0,Female,Chennai,Sports,Mobile,4,15145,60580,Debit Card,2027-09-23,1.0
+1997,Matthew Cooper,32.0,Male,Hyderabad,Beauty,Headphones,1,31605,31605,Credit Card,2027-09-24,2.0
+1998,Elizabeth Sanchez,46.0,Female,Mumbai,Home,Camera,4,14168,56672,Cash,2027-09-25,1.0
+1999,Joseph Burch,25.0,Male,Hyderabad,Electronics,Watch,5,16460,82300,Cash,2027-09-26,5.0
+2000,Heather Wolfe,22.0,Female,Mumbai,Home,Mobile,2,11857,23714,Cash,2027-09-27,3.0
+1679,Karen Bailey,54.0,Female,Hyderabad,Home,Watch,1,49440,49440,Debit Card,2026-11-10,5.0
